@@ -1,0 +1,90 @@
+---
+- name: Apply a change to multiple repositories
+  hosts: localhost
+  vars_files:
+    - vars/repos.yaml
+  vars:
+    clone_base_dir: /tmp/ansible_clones
+    new_branch: patch-konflux-image-digest
+    script_fullpath: /Users/jdiazsua/Documents/Projects/utils/konflux/update-konflux-image-digest.sh
+    commit_msg: "fix(konflux): missing image-digest"
+  tasks:
+    - name: Clone each repository
+      ansible.builtin.git:
+        repo: "{{ item.value.url }}"
+        dest: "{{ clone_base_dir }}/{{ item.key }}"
+        version: "{{ item.value.default_branch }}"
+        single_branch: true
+      loop: "{{ repos | dict2items }}"
+
+    - name: Change the working directory to the repo and create a new branch
+      ansible.builtin.shell:
+        cmd: "git branch -D {{ new_branch }} || git checkout -b {{ new_branch }}"
+        chdir: "{{ clone_base_dir }}/{{ item.key }}"
+      changed_when: true
+      loop: "{{ repos | dict2items }}"
+
+    - name: Run the script
+      ansible.builtin.command:
+        cmd: "{{ script_fullpath }}"
+        chdir: "{{ clone_base_dir }}/{{ item.key }}"
+      changed_when: true
+      loop: "{{ repos | dict2items }}"
+
+    - name: Check if there are uncommitted changes
+      ansible.builtin.command:
+        cmd: git diff --quiet
+        chdir: "{{ clone_base_dir }}/{{ item.key }}"
+      ignore_errors: true
+      register: git_diff_result
+      loop: "{{ repos | dict2items }}"
+
+    - name: Commit the changes
+      ansible.builtin.command:
+        cmd: 'git commit -am "{{ commit_msg }}"'
+        chdir: "{{ clone_base_dir }}/{{ item.key }}"
+      when: git_diff_result.results[idx].rc != 0
+      changed_when: true
+      loop: "{{ repos | dict2items }}"
+      loop_control:
+        index_var: idx
+
+    - name: Push and create pull/merge request if there are changes
+      block:
+        - name: Push and create PR (GitHub)
+          ansible.builtin.command: >
+            gh pr create --fill --base {{ item.value.default_branch }}
+          args:
+            chdir: "{{ clone_base_dir }}/{{ item.key }}"
+          when:
+            - item.value.source == "github"
+            - git_diff_result.results[idx].rc != 0
+          changed_when: true
+          loop: "{{ repos | dict2items }}"
+          loop_control:
+            index_var: idx
+            label: "{{ item.key }}"
+          register: github_push_output
+
+        - name: Push and create MR (GitLab)
+          ansible.builtin.command: >
+            git push -o merge_request.create -o merge_request.target={{ item.value.default_branch }} origin {{ new_branch }}
+          args:
+            chdir: "{{ clone_base_dir }}/{{ item.key }}"
+          when:
+            - item.value.source == "gitlab"
+            - git_diff_result.results[idx].rc != 0
+          changed_when: true
+          loop: "{{ repos | dict2items }}"
+          loop_control:
+            index_var: idx
+            label: "{{ item.key }}"
+          register: gitlab_push_output
+
+        - name: Github logs
+          ansible.builtin.debug:
+            msg: "{{ github_push_output }}"
+
+        - name: Gitlab logs
+          ansible.builtin.debug:
+            msg: "{{ gitlab_push_output }}"

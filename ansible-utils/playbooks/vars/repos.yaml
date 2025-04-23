@@ -1,0 +1,74 @@
+---
+repos:
+  ccx-data-pipeline:
+    url: git@gitlab.cee.redhat.com:ccx/ccx-data-pipeline.git
+    default_branch: master
+    source: gitlab
+  ccx-insights-content-service:
+    url: git@gitlab.cee.redhat.com:ccx/content-service.git
+    default_branch: master
+    source: gitlab
+  ccx-upgrades-inference:
+    url: https://gitlab.cee.redhat.com/ccx/ccx-upgrades-inference
+    default_branch: main
+    source: gitlab
+  ccx-upgrades-data-eng:
+    url: https://gitlab.cee.redhat.com/ccx/ccx-upgrades-data-eng
+    default_branch: main
+    source: gitlab
+  dvo-extractor:
+    url: https://gitlab.cee.redhat.com/ccx/dvo-extractor
+    default_branch: master
+    source: gitlab
+  ccx-load-test:
+    url: https://gitlab.cee.redhat.com/ccx/ccx-load-test
+    default_branch: main
+    source: gitlab
+  parquet-factory:
+    url: https://gitlab.cee.redhat.com/ccx/parquet-factory
+    default_branch: master
+    source: gitlab
+  insights-results-aggregator:
+    url: https://github.com/RedHatInsights/insights-results-aggregator
+    default_branch: master
+    source: github
+  insights-results-aggregator-cleaner:
+    url: https://github.com/RedHatInsights/insights-results-aggregator-cleaner
+    default_branch: master
+    source: github
+  insights-results-aggregator-exporter:
+    url: https://github.com/RedHatInsights/insights-results-aggregator-exporter
+    default_branch: master
+    source: github
+  ccx-smart-proxy:
+    url: https://github.com/RedHatInsights/insights-results-smart-proxy
+    default_branch: master
+    source: github
+  ccx-notification-writer:
+    url: https://github.com/RedHatInsights/ccx-notification-writer
+    default_branch: master
+    source: github
+  ccx-notification-service:
+    url: https://github.com/RedHatInsights/ccx-notification-service
+    default_branch: master
+    source: github
+  io-gathering-service:
+    url: https://github.com/RedHatInsights/insights-operator-gathering-conditions-service
+    default_branch: main
+    source: github
+  ccx-insights-content-template-renderer:
+    url: https://github.com/RedHatInsights/insights-content-template-renderer
+    default_branch: master
+    source: github
+  insights-behavioral-spec:
+    url: https://github.com/RedHatInsights/insights-behavioral-spec
+    default_branch: main
+    source: github
+  obsint-mocks:
+    url: https://github.com/RedHatInsights/obsint-mocks
+    default_branch: main
+    source: github
+  ccx-messaging:
+    url: https://github.com/RedHatInsights/insights-ccx-messaging
+    default_branch: main
+    source: github
