@@ -52,13 +52,11 @@
     - name: Push and create pull/merge request if there are changes
       block:
         - name: Push and create PR (GitHub)
-          ansible.builtin.command: >
-            gh pr create --fill --base {{ item.value.default_branch }}
+          ansible.builtin.shell: >
+            git push -u origin {{ new_branch }} -f && gh pr create --fill --base {{ item.value.default_branch }} --head {{ new_branch }}
           args:
             chdir: "{{ clone_base_dir }}/{{ item.key }}"
-          when:
-            - item.value.source == "github"
-            - git_diff_result.results[idx].rc != 0
+          when: (item.value.source == "github") and (git_diff_result.results[idx].rc != 0)
           changed_when: true
           loop: "{{ repos | dict2items }}"
           loop_control:
@@ -71,9 +69,7 @@
             git push -o merge_request.create -o merge_request.target={{ item.value.default_branch }} origin {{ new_branch }}
           args:
             chdir: "{{ clone_base_dir }}/{{ item.key }}"
-          when:
-            - item.value.source == "gitlab"
-            - git_diff_result.results[idx].rc != 0
+          when: (item.value.source == "gitlab") and (git_diff_result.results[idx].rc != 0)
           changed_when: true
           loop: "{{ repos | dict2items }}"
           loop_control:

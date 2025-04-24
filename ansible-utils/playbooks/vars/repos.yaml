@@ -1,31 +1,31 @@
 ---
 repos:
+  ccx-upgrades-inference:
+    url: git@gitlab.cee.redhat.com:ccx/ccx-upgrades-inference
+    default_branch: main
+    source: gitlab
+  ccx-upgrades-data-eng:
+    url: git@gitlab.cee.redhat.com:ccx/ccx-upgrades-data-eng
+    default_branch: main
+    source: gitlab
+  dvo-extractor:
+    url: git@gitlab.cee.redhat.com:ccx/dvo-extractor
+    default_branch: master
+    source: gitlab
+  ccx-load-test:
+    url: git@gitlab.cee.redhat.com:ccx/ccx-load-test
+    default_branch: main
+    source: gitlab
+  parquet-factory:
+    url: git@gitlab.cee.redhat.com:ccx/parquet-factory
+    default_branch: master
+    source: gitlab
   ccx-data-pipeline:
     url: git@gitlab.cee.redhat.com:ccx/ccx-data-pipeline.git
     default_branch: master
     source: gitlab
   ccx-insights-content-service:
     url: git@gitlab.cee.redhat.com:ccx/content-service.git
-    default_branch: master
-    source: gitlab
-  ccx-upgrades-inference:
-    url: https://gitlab.cee.redhat.com/ccx/ccx-upgrades-inference
-    default_branch: main
-    source: gitlab
-  ccx-upgrades-data-eng:
-    url: https://gitlab.cee.redhat.com/ccx/ccx-upgrades-data-eng
-    default_branch: main
-    source: gitlab
-  dvo-extractor:
-    url: https://gitlab.cee.redhat.com/ccx/dvo-extractor
-    default_branch: master
-    source: gitlab
-  ccx-load-test:
-    url: https://gitlab.cee.redhat.com/ccx/ccx-load-test
-    default_branch: main
-    source: gitlab
-  parquet-factory:
-    url: https://gitlab.cee.redhat.com/ccx/parquet-factory
     default_branch: master
     source: gitlab
   insights-results-aggregator:
