@@ -35,5 +35,5 @@ For example:
 
 ```
 ./github-utils/list-repos-prs.sh > github-utils/open-prs.csv
- echo "Open Pull Requests" > github-utils/open-prs.md && csv2md github-utils/open-prs.csv >> github-utils/open-prs.md
+ echo "# Open Pull Requests" > github-utils/open-prs.md && csv2md github-utils/open-prs.csv >> github-utils/open-prs.md
 ```
