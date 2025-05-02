@@ -23,7 +23,10 @@ yq -o=json '.repos | to_entries | map(select(.value.source == "github"))' "$REPO
 
     # Check if README.md contains "codecov"
     if grep -qi "codecov" "$temp_readme"; then
-        echo "- [ ] Check codecov for $full_url"
+        echo "- [ ] Update/fix/check codecov for $full_url"
+        echo "  - [ ] Check the coverage is up to date"
+        echo "  - [ ] Add the codecov.io token to the settings"
+        echo "  - [ ] Add the codecov.io token to the GH Action"
     else
         echo "- [ ] Add [![codecov](https://codecov.io/gh/$repo_path/branch/$default_branch/graph/badge.svg)](https://codecov.io/gh/$repo_path) to $full_url"
     fi
