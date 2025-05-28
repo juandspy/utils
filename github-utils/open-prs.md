@@ -1,4 +1,4 @@
-# Open Pull Requests - 2025/05/27 13:35:35
+# Open Pull Requests - 2025/05/28 10:33:09
 | repo                                 | pr_id | title                                                                                  | date_created         | url                                                                                       | author              | ci_status |
 | ------------------------------------ | ----- | -------------------------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------- | ------------------- | --------- |
 | insights-results-aggregator          | 2199  | Use latest image of go-toolset for building binary                                     | 2025-05-26T10:20:53Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2199                   | ikerreyes           | ok        |
