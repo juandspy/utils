@@ -1,6 +1,7 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2217 | [CCXDEV-15205] Change provider of sarama package | 2025-06-19T13:34:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2217 | JiriPapousek | ok
 insights-results-aggregator | 2192 | [CCXDEV-14924] Remove Redis instance and old cache writer | 2025-05-15T08:38:45Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2192 | JiriPapousek | failed
 insights-results-aggregator | 2123 | [CCXDEV-14693] Test konflux integration tests - bonfire tekton | 2025-03-14T10:36:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2123 | matysek | failed
 insights-results-aggregator | 2115 | Update module github.com/Shopify/sarama to v1.45.1 | 2025-02-23T08:13:19Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2115 | app/red-hat-konflux | failed
@@ -21,13 +22,16 @@ insights-results-aggregator-exporter | 386 | chore(deps): update golang.org/x/ex
 insights-results-aggregator-exporter | 374 | Update module github.com/spf13/viper to v1.20.1 | 2025-03-16T07:04:42Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/374 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 368 | fix(deps): update module github.com/minio/minio-go/v7 to v7.0.94 | 2025-02-16T16:58:51Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/368 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 185 | WIP: [CCXDEV-5899] Enable loading of exporter in ephemeral in pr_check | 2022-11-21T09:59:39Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/185 | matysek | ok
+ccx-smart-proxy | 1515 | [CCXDEV-15205] Bump up insights-operator-utils | 2025-06-19T13:40:12Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1515 | JiriPapousek | ok
 ccx-smart-proxy | 1505 | chore(deps): update dependency go to v1.24.4 | 2025-06-15T11:18:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1505 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1288 | Adding basic code for implementing a benchmark over Redis storage | 2024-07-11T11:22:59Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1288 | joselsegura | failed
 ccx-smart-proxy | 1260 | sync clowdapp name with app-interface | 2024-04-25T13:10:25Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1260 | matysek | ok
+ccx-notification-writer | 606 | Bump github.com/RedHatInsights/insights-operator-utils from 1.25.14 to 1.25.15 | 2025-06-19T14:51:22Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/606 | app/dependabot | ok
 ccx-notification-service | 940 | [CCXDEV-15205] Change provider of sarama package | 2025-06-18T08:10:26Z | https://github.com/RedHatInsights/ccx-notification-service/pull/940 | JiriPapousek | ok
 ccx-notification-service | 936 | chore(deps): update module github.com/spf13/cast to v1.9.2 | 2025-06-15T19:11:07Z | https://github.com/RedHatInsights/ccx-notification-service/pull/936 | app/red-hat-konflux | ok
 ccx-notification-service | 932 | chore(deps): update module github.com/prometheus/common to v0.64.0 | 2025-06-15T11:19:16Z | https://github.com/RedHatInsights/ccx-notification-service/pull/932 | app/red-hat-konflux | ok
 ccx-notification-service | 901 | Update module github.com/Shopify/sarama to v1.45.1 | 2025-04-13T08:07:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/901 | app/red-hat-konflux | failed
+io-gathering-service | 439 | [CCXDEV-15205] Bump up insights-operator-utils to 1.25.15 | 2025-06-19T13:28:30Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/439 | JiriPapousek | ok
 io-gathering-service | 431 | chore(deps): update module github.com/shopify/sarama to v1.45.2 | 2025-06-15T08:11:50Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/431 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-messaging | 531 | fix(deps): update dependency boto3 to >=1.38.36,<1.39.0 | 2025-06-14T06:31:56Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/531 | app/red-hat-konflux | failed
