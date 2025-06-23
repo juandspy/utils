@@ -1,9 +1,21 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2223 | chore(deps): update module github.com/golang/snappy to v1 | 2025-06-22T13:14:22Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2223 | app/red-hat-konflux | ok
+insights-results-aggregator | 2222 | chore(deps): update module golang.org/x/net to v0.41.0 | 2025-06-22T13:14:20Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2222 | app/red-hat-konflux | ok
+insights-results-aggregator | 2221 | chore(deps): update module github.com/hashicorp/errwrap to v1.1.0 | 2025-06-22T09:50:12Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2221 | app/red-hat-konflux | ok
 insights-results-aggregator | 2192 | [CCXDEV-14924] Remove Redis instance and old cache writer | 2025-05-15T08:38:45Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2192 | JiriPapousek | failed
 insights-results-aggregator | 2123 | [CCXDEV-14693] Test konflux integration tests - bonfire tekton | 2025-03-14T10:36:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2123 | matysek | failed
 insights-results-aggregator | 2115 | Update module github.com/Shopify/sarama to v1.45.1 | 2025-02-23T08:13:19Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2115 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 464 | Update module golang.org/x/text to v0.26.0 | 2025-06-22T22:58:29Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/464 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 463 | Update module golang.org/x/net to v0.41.0 | 2025-06-22T18:02:19Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/463 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 462 | Update module golang.org/x/crypto to v0.39.0 | 2025-06-22T18:02:17Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/462 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 461 | Update module go.uber.org/multierr to v1.11.0 | 2025-06-22T13:13:29Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/461 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 460 | Update module github.com/Shopify/sarama to v1.45.2 | 2025-06-22T13:12:28Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/460 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 459 | Update module go.uber.org/atomic to v1.11.0 | 2025-06-22T08:55:28Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/459 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 458 | Update module github.com/spf13/cast to v1.9.2 | 2025-06-22T08:55:27Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/458 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 457 | Update module github.com/go-viper/mapstructure/v2 to v2.3.0 | 2025-06-22T05:58:40Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/457 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 456 | Update module github.com/RedHatInsights/insights-operator-utils to v1.25.15 | 2025-06-22T05:58:27Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/456 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 455 | Update Konflux references | 2025-06-21T08:44:17Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/455 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 454 | Bump github.com/RedHatInsights/insights-operator-utils from 1.25.14 to 1.25.15 | 2025-06-20T09:10:59Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/454 | app/dependabot | ok
 insights-results-aggregator-cleaner | 435 | Bump github.com/olekukonko/tablewriter from 0.0.5 to 1.0.7 | 2025-05-28T09:49:53Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/435 | app/dependabot | failed
@@ -23,19 +35,28 @@ insights-results-aggregator-exporter | 386 | chore(deps): update golang.org/x/ex
 insights-results-aggregator-exporter | 374 | Update module github.com/spf13/viper to v1.20.1 | 2025-03-16T07:04:42Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/374 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 368 | fix(deps): update module github.com/minio/minio-go/v7 to v7.0.94 | 2025-02-16T16:58:51Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/368 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 185 | WIP: [CCXDEV-5899] Enable loading of exporter in ephemeral in pr_check | 2022-11-21T09:59:39Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/185 | matysek | ok
-ccx-smart-proxy | 1518 | Bump github.com/RedHatInsights/insights-results-aggregator from 1.4.2 to 1.4.3 | 2025-06-20T17:23:10Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1518 | app/dependabot | failed
+ccx-smart-proxy | 1527 | chore(deps): update module github.com/cenkalti/backoff/v4 to v5 | 2025-06-22T23:39:24Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1527 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1523 | chore(deps): update module golang.org/x/net to v0.41.0 | 2025-06-22T10:52:54Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1523 | app/red-hat-konflux | ok
+ccx-smart-proxy | 1520 | fix(deps): update module github.com/redhatinsights/insights-results-aggregator to v1.4.3 | 2025-06-22T05:45:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1520 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1515 | [CCXDEV-15205] Bump up insights-operator-utils | 2025-06-19T13:40:12Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1515 | JiriPapousek | ok
 ccx-smart-proxy | 1505 | chore(deps): update dependency go to v1.24.4 | 2025-06-15T11:18:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1505 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1288 | Adding basic code for implementing a benchmark over Redis storage | 2024-07-11T11:22:59Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1288 | joselsegura | failed
 ccx-smart-proxy | 1260 | sync clowdapp name with app-interface | 2024-04-25T13:10:25Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1260 | matysek | ok
-ccx-notification-writer | 606 | Bump github.com/RedHatInsights/insights-operator-utils from 1.25.14 to 1.25.15 | 2025-06-19T14:51:22Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/606 | app/dependabot | ok
+ccx-notification-writer | 611 | chore(deps): update module github.com/golang/snappy to v1 | 2025-06-22T15:55:39Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/611 | app/red-hat-konflux | ok
+ccx-notification-writer | 608 | fix(deps): update module github.com/redhatinsights/insights-operator-utils to v1.25.15 | 2025-06-22T10:58:15Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/608 | app/red-hat-konflux | ok
+ccx-notification-service | 950 | chore(deps): update module github.com/golang/snappy to v1 | 2025-06-22T21:32:26Z | https://github.com/RedHatInsights/ccx-notification-service/pull/950 | app/red-hat-konflux | failed
+ccx-notification-service | 949 | chore(deps): update module github.com/golang-jwt/jwt/v4 to v5 | 2025-06-22T16:50:51Z | https://github.com/RedHatInsights/ccx-notification-service/pull/949 | app/red-hat-konflux | failed
+ccx-notification-service | 948 | chore(deps): update module github.com/cenkalti/backoff/v4 to v5 | 2025-06-22T16:50:50Z | https://github.com/RedHatInsights/ccx-notification-service/pull/948 | app/red-hat-konflux | ok
+ccx-notification-service | 947 | chore(deps): update module golang.org/x/oauth2 to v0.30.0 | 2025-06-22T13:42:54Z | https://github.com/RedHatInsights/ccx-notification-service/pull/947 | app/red-hat-konflux | ok
+ccx-notification-service | 942 | fix(deps): update module github.com/openshift-online/ocm-sdk-go to v0.1.469 | 2025-06-22T05:43:36Z | https://github.com/RedHatInsights/ccx-notification-service/pull/942 | app/red-hat-konflux | ok
 ccx-notification-service | 936 | chore(deps): update module github.com/spf13/cast to v1.9.2 | 2025-06-15T19:11:07Z | https://github.com/RedHatInsights/ccx-notification-service/pull/936 | app/red-hat-konflux | ok
-ccx-notification-service | 932 | chore(deps): update module github.com/prometheus/common to v0.64.0 | 2025-06-15T11:19:16Z | https://github.com/RedHatInsights/ccx-notification-service/pull/932 | app/red-hat-konflux | ok
 ccx-notification-service | 901 | Update module github.com/Shopify/sarama to v1.45.1 | 2025-04-13T08:07:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/901 | app/red-hat-konflux | failed
 io-gathering-service | 431 | chore(deps): update module github.com/shopify/sarama to v1.45.2 | 2025-06-15T08:11:50Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/431 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-insights-content-template-renderer | 204 | chore(deps): update dependency pytest to v8.4.1 | 2025-06-21T14:44:39Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/204 | app/red-hat-konflux | ok
 ccx-insights-content-template-renderer | 203 | chore(deps): update dependency fastapi to v0.115.13 | 2025-06-21T09:38:47Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/203 | app/red-hat-konflux | ok
+obsint-mocks | 126 | chore(deps): update module github.com/jackc/pgx/v4 to v5 | 2025-06-22T22:50:43Z | https://github.com/RedHatInsights/obsint-mocks/pull/126 | app/red-hat-konflux | ok
+obsint-mocks | 122 | fix(deps): update module github.com/openshift-online/ocm-sdk-go to v0.1.469 | 2025-06-22T11:57:43Z | https://github.com/RedHatInsights/obsint-mocks/pull/122 | app/red-hat-konflux | ok
 ccx-messaging | 531 | fix(deps): update dependency boto3 to >=1.38.41,<1.39.0 | 2025-06-14T06:31:56Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/531 | app/red-hat-konflux | failed
 ccx-messaging | 188 | Adding docker-compose for local deployments | 2024-04-12T07:36:51Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/188 | joselsegura | ok
 
