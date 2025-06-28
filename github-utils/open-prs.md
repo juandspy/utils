@@ -1,12 +1,14 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2224 | [CCXDEV-15125] Add separate valkey-writer deployment file | 2025-06-27T08:05:21Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2224 | JiriPapousek | failed
 insights-results-aggregator | 2223 | chore(deps): update module github.com/golang/snappy to v1 | 2025-06-22T13:14:22Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2223 | app/red-hat-konflux | ok
 insights-results-aggregator | 2222 | chore(deps): update module golang.org/x/net to v0.41.0 | 2025-06-22T13:14:20Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2222 | app/red-hat-konflux | ok
 insights-results-aggregator | 2221 | chore(deps): update module github.com/hashicorp/errwrap to v1.1.0 | 2025-06-22T09:50:12Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2221 | app/red-hat-konflux | ok
 insights-results-aggregator | 2192 | [CCXDEV-14924] Remove Redis instance and old cache writer | 2025-05-15T08:38:45Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2192 | JiriPapousek | failed
 insights-results-aggregator | 2123 | [CCXDEV-14693] Test konflux integration tests - bonfire tekton | 2025-03-14T10:36:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2123 | matysek | failed
 insights-results-aggregator | 2115 | Update module github.com/Shopify/sarama to v1.45.1 | 2025-02-23T08:13:19Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2115 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 465 | Bump github.com/go-viper/mapstructure/v2 from 2.2.1 to 2.3.0 | 2025-06-27T17:08:21Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/465 | app/dependabot | failed
 insights-results-aggregator-cleaner | 464 | Update module golang.org/x/text to v0.26.0 | 2025-06-22T22:58:29Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/464 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 463 | Update module golang.org/x/net to v0.41.0 | 2025-06-22T18:02:19Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/463 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 462 | Update module golang.org/x/crypto to v0.39.0 | 2025-06-22T18:02:17Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/462 | app/red-hat-konflux | failed
@@ -20,7 +22,6 @@ insights-results-aggregator-cleaner | 455 | Update Konflux references | 2025-06-
 insights-results-aggregator-cleaner | 454 | Bump github.com/RedHatInsights/insights-operator-utils from 1.25.14 to 1.25.15 | 2025-06-20T09:10:59Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/454 | app/dependabot | ok
 insights-results-aggregator-cleaner | 435 | Bump github.com/olekukonko/tablewriter from 0.0.5 to 1.0.7 | 2025-05-28T09:49:53Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/435 | app/dependabot | failed
 insights-results-aggregator-cleaner | 407 | Setting errcheck to version 1.8.0 | 2025-03-28T11:23:36Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/407 | Jakub007d | failed
-insights-results-aggregator-exporter | 415 | chore(deps): update registry.access.redhat.com/ubi9/go-toolset docker tag to v9 | 2025-06-14T01:06:49Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/415 | app/red-hat-konflux | ok
 insights-results-aggregator-exporter | 413 | Golangci lint | 2025-06-04T12:00:22Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/413 | ikerreyes | ok
 insights-results-aggregator-exporter | 411 | Use latest image of go-toolset for building binary | 2025-05-26T10:20:01Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/411 | ikerreyes | failed
 insights-results-aggregator-exporter | 398 | chore(deps): update module github.com/klauspost/compress to v1.18.0 | 2025-04-06T16:22:21Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/398 | app/red-hat-konflux | ok
@@ -33,8 +34,9 @@ insights-results-aggregator-exporter | 386 | chore(deps): update golang.org/x/ex
 insights-results-aggregator-exporter | 374 | Update module github.com/spf13/viper to v1.20.1 | 2025-03-16T07:04:42Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/374 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 368 | fix(deps): update module github.com/minio/minio-go/v7 to v7.0.94 | 2025-02-16T16:58:51Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/368 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 185 | WIP: [CCXDEV-5899] Enable loading of exporter in ephemeral in pr_check | 2022-11-21T09:59:39Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/185 | matysek | ok
+ccx-smart-proxy | 1532 | [CCXDEV-12519] Updating golangcilint configuration and adding autofix option to makefile | 2025-06-27T14:02:28Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1532 | Jakub007d | failed
 ccx-smart-proxy | 1531 | [CCXDEV-15149] Switch used Redis instance to AppSRE provided one | 2025-06-25T11:29:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1531 | JiriPapousek | failed
-ccx-smart-proxy | 1529 | [CCXDEB-15184] Add custom renovate.json config | 2025-06-24T13:59:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1529 | JiriPapousek | ok
+ccx-smart-proxy | 1529 | [CCXDEB-15184] Add custom renovate.json config | 2025-06-24T13:59:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1529 | JiriPapousek | failed
 ccx-smart-proxy | 1527 | chore(deps): update module github.com/cenkalti/backoff/v4 to v5 | 2025-06-22T23:39:24Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1527 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1523 | chore(deps): update module golang.org/x/net to v0.41.0 | 2025-06-22T10:52:54Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1523 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1520 | fix(deps): update module github.com/redhatinsights/insights-results-aggregator to v1.4.3 | 2025-06-22T05:45:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1520 | app/red-hat-konflux | ok
