@@ -8,10 +8,6 @@ repos:
     url: git@gitlab.cee.redhat.com:ccx/ccx-upgrades-data-eng
     default_branch: main
     source: gitlab
-  dvo-extractor:
-    url: git@gitlab.cee.redhat.com:ccx/dvo-extractor
-    default_branch: master
-    source: gitlab
   ccx-load-test:
     url: git@gitlab.cee.redhat.com:ccx/ccx-load-test
     default_branch: main
