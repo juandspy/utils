@@ -1,4 +1,4 @@
-# Open Pull Requests - 2025/07/02 11:48:09
+# Open Pull Requests - 2025/07/02 12:39:23
 | repo                                 | pr_id | title                                                                                     | date_created         | url                                                                                       | author              | ci_status |
 | ------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------- | ------------------- | --------- |
 | insights-results-aggregator          | 2226  | chore(deps): update module github.com/getsentry/sentry-go to v0.34.0                      | 2025-06-29T12:40:58Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2226                   | app/red-hat-konflux | failed    |
