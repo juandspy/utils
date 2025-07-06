@@ -20,12 +20,14 @@ ccx-smart-proxy | 1520 | fix(deps): update module github.com/redhatinsights/insi
 ccx-smart-proxy | 1505 | chore(deps): update dependency go to v1.24.4 | 2025-06-15T11:18:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1505 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1288 | Adding basic code for implementing a benchmark over Redis storage | 2024-07-11T11:22:59Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1288 | joselsegura | failed
 ccx-smart-proxy | 1260 | sync clowdapp name with app-interface | 2024-04-25T13:10:25Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1260 | matysek | ok
+ccx-notification-service | 954 | chore(deps): update konflux references | 2025-07-05T06:31:20Z | https://github.com/RedHatInsights/ccx-notification-service/pull/954 | app/red-hat-konflux | failed
 ccx-notification-service | 948 | chore(deps): update module github.com/cenkalti/backoff/v4 to v5 | 2025-06-22T16:50:50Z | https://github.com/RedHatInsights/ccx-notification-service/pull/948 | app/red-hat-konflux | failed
 ccx-notification-service | 947 | chore(deps): update module golang.org/x/oauth2 to v0.30.0 | 2025-06-22T13:42:54Z | https://github.com/RedHatInsights/ccx-notification-service/pull/947 | app/red-hat-konflux | ok
 ccx-notification-service | 942 | fix(deps): update module github.com/openshift-online/ocm-sdk-go to v0.1.469 | 2025-06-22T05:43:36Z | https://github.com/RedHatInsights/ccx-notification-service/pull/942 | app/red-hat-konflux | ok
 ccx-notification-service | 936 | chore(deps): update module github.com/spf13/cast to v1.9.2 | 2025-06-15T19:11:07Z | https://github.com/RedHatInsights/ccx-notification-service/pull/936 | app/red-hat-konflux | ok
 ccx-notification-service | 901 | Update module github.com/Shopify/sarama to v1.45.1 | 2025-04-13T08:07:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/901 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+ccx-messaging | 551 | fix(deps): update dependency boto3 to >=1.39.3,<1.40.0 | 2025-07-05T09:01:19Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/551 | app/red-hat-konflux | failed
 ccx-messaging | 549 | DO NOT MERGE Memory leak investigation | 2025-07-04T08:58:59Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/549 | Jakub007d | failed
 ccx-messaging | 188 | Adding docker-compose for local deployments | 2024-04-12T07:36:51Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/188 | joselsegura | ok
 
