@@ -3,6 +3,7 @@ repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2192 | [CCXDEV-14924] Remove Redis instance and old cache writer | 2025-05-15T08:38:45Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2192 | JiriPapousek | failed
 insights-results-aggregator | 2123 | [CCXDEV-14693] Test konflux integration tests - bonfire tekton | 2025-03-14T10:36:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2123 | matysek | failed
+insights-results-aggregator-cleaner | 482 | [CCXDEV-15184] Add custom renovate config | 2025-07-15T13:29:38Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/482 | JiriPapousek | failed
 insights-results-aggregator-cleaner | 479 | chore(deps): update module golang.org/x/sys to v0.34.0 | 2025-07-13T18:45:36Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/479 | app/red-hat-konflux | ok
 insights-results-aggregator-cleaner | 478 | chore(deps): update module golang.org/x/net to v0.42.0 | 2025-07-13T18:45:35Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/478 | app/red-hat-konflux | ok
 insights-results-aggregator-cleaner | 477 | chore(deps): update module golang.org/x/crypto to v0.40.0 | 2025-07-13T15:43:53Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/477 | app/red-hat-konflux | ok
