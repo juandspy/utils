@@ -19,6 +19,7 @@ ccx-notification-writer | 621 | chore(deps): update module golang.org/x/sys to v
 ccx-notification-writer | 620 | chore(deps): update module golang.org/x/net to v0.42.0 | 2025-07-13T09:41:03Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/620 | app/red-hat-konflux | ok
 ccx-notification-writer | 619 | chore(deps): update module golang.org/x/crypto to v0.40.0 | 2025-07-13T06:42:06Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/619 | app/red-hat-konflux | ok
 ccx-notification-writer | 617 | chore(deps): update konflux references | 2025-07-12T09:02:05Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/617 | app/red-hat-konflux | failed
+ccx-notification-service | 971 | refactor: remove unused file manifest.txt | 2025-07-16T08:28:29Z | https://github.com/RedHatInsights/ccx-notification-service/pull/971 | juandspy | failed
 ccx-notification-service | 966 | chore(deps): update module golang.org/x/sys to v0.34.0 | 2025-07-13T16:15:26Z | https://github.com/RedHatInsights/ccx-notification-service/pull/966 | app/red-hat-konflux | ok
 ccx-notification-service | 965 | chore(deps): update module golang.org/x/net to v0.42.0 | 2025-07-13T13:54:02Z | https://github.com/RedHatInsights/ccx-notification-service/pull/965 | app/red-hat-konflux | ok
 ccx-notification-service | 964 | chore(deps): update module golang.org/x/crypto to v0.40.0 | 2025-07-13T13:54:00Z | https://github.com/RedHatInsights/ccx-notification-service/pull/964 | app/red-hat-konflux | ok
@@ -28,9 +29,13 @@ ccx-notification-service | 960 | chore(deps): update github.com/openshift-online
 io-gathering-service | 457 | chore(deps): update module golang.org/x/text to v0.27.0 | 2025-07-13T15:18:05Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/457 | app/red-hat-konflux | ok
 io-gathering-service | 453 | chore(deps): update module github.com/getsentry/sentry-go to v0.34.1 | 2025-07-13T07:16:50Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/453 | app/red-hat-konflux | ok
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+ccx-insights-content-template-renderer | 213 | [CCXDEV-15184] Add custom Renovate config to group update PRs | 2025-07-16T12:04:27Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/213 | JiriPapousek | ok
+insights-behavioral-spec | 709 | [CCXDEV-15184] Add custom Renovate config | 2025-07-16T13:04:29Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/709 | JiriPapousek | ok
+obsint-mocks | 144 | [CCXDEV-15184] Add custom Renovate config | 2025-07-16T13:16:57Z | https://github.com/RedHatInsights/obsint-mocks/pull/144 | JiriPapousek | ok
 obsint-mocks | 142 | chore(deps): update module github.com/golang-jwt/jwt/v4 to v5 | 2025-07-13T19:26:14Z | https://github.com/RedHatInsights/obsint-mocks/pull/142 | app/red-hat-konflux | ok
 obsint-mocks | 140 | chore(deps): update module golang.org/x/sys to v0.34.0 | 2025-07-13T12:22:03Z | https://github.com/RedHatInsights/obsint-mocks/pull/140 | app/red-hat-konflux | ok
 obsint-mocks | 138 | chore(deps): update module golang.org/x/crypto to v0.40.0 | 2025-07-13T11:21:42Z | https://github.com/RedHatInsights/obsint-mocks/pull/138 | app/red-hat-konflux | ok
+ccx-messaging | 558 | [CCXDEV-15184] Add custom Renovate config | 2025-07-16T11:54:58Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/558 | JiriPapousek | ok
 ccx-messaging | 555 | fix(deps): update dependency boto3 to >=1.39.4,<1.40.0 | 2025-07-12T05:40:33Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/555 | app/red-hat-konflux | failed
 ccx-messaging | 549 | DO NOT MERGE Memory leak investigation | 2025-07-04T08:58:59Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/549 | Jakub007d | failed
 ccx-messaging | 188 | Adding docker-compose for local deployments | 2024-04-12T07:36:51Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/188 | joselsegura | ok
