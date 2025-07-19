@@ -20,7 +20,6 @@ ccx-notification-writer | 620 | chore(deps): update module golang.org/x/net to v
 ccx-notification-writer | 619 | chore(deps): update module golang.org/x/crypto to v0.40.0 | 2025-07-13T06:42:06Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/619 | app/red-hat-konflux | ok
 ccx-notification-writer | 617 | chore(deps): update konflux references | 2025-07-12T09:02:05Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/617 | app/red-hat-konflux | failed
 ccx-notification-service | 966 | chore(deps): update module golang.org/x/sys to v0.34.0 | 2025-07-13T16:15:26Z | https://github.com/RedHatInsights/ccx-notification-service/pull/966 | app/red-hat-konflux | ok
-ccx-notification-service | 965 | chore(deps): update module golang.org/x/net to v0.42.0 | 2025-07-13T13:54:02Z | https://github.com/RedHatInsights/ccx-notification-service/pull/965 | app/red-hat-konflux | ok
 ccx-notification-service | 964 | chore(deps): update module golang.org/x/crypto to v0.40.0 | 2025-07-13T13:54:00Z | https://github.com/RedHatInsights/ccx-notification-service/pull/964 | app/red-hat-konflux | ok
 ccx-notification-service | 963 | chore(deps): update module github.com/getsentry/sentry-go to v0.34.1 | 2025-07-13T08:47:42Z | https://github.com/RedHatInsights/ccx-notification-service/pull/963 | app/red-hat-konflux | ok
 ccx-notification-service | 962 | chore(deps): update dependency go to v1.24.5 | 2025-07-13T08:47:40Z | https://github.com/RedHatInsights/ccx-notification-service/pull/962 | app/red-hat-konflux | ok
