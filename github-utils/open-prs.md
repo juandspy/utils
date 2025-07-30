@@ -1,7 +1,6 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2244 | [CCXDEV-14924] Remove dashboard for old Redis instance | 2025-07-28T13:55:53Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2244 | JiriPapousek | ok
 insights-results-aggregator | 2123 | [CCXDEV-14693] Test konflux integration tests - bonfire tekton | 2025-03-14T10:36:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2123 | matysek | failed
 ccx-smart-proxy | 1557 | DO NOT MERGE POC shared workflows | 2025-07-25T10:22:18Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1557 | Jakub007d | failed
 ccx-smart-proxy | 1288 | Adding basic code for implementing a benchmark over Redis storage | 2024-07-11T11:22:59Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1288 | joselsegura | failed
