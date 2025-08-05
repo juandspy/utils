@@ -14,6 +14,7 @@ ccx-notification-writer | 630 | fix(deps): update module github.com/prometheus/c
 ccx-notification-service | 982 | chore(deps): update all dependencies to v5 | 2025-08-03T15:34:14Z | https://github.com/RedHatInsights/ccx-notification-service/pull/982 | app/red-hat-konflux | failed
 io-gathering-service | 465 | chore(deps): update all dependencies | 2025-08-03T06:13:32Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/465 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+ccx-messaging | 564 | DO NOT MERGE! POC ccx-messaging memory leak investigation | 2025-08-04T07:55:03Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/564 | Jakub007d | failed
 ccx-messaging | 549 | DO NOT MERGE Memory leak investigation | 2025-07-04T08:58:59Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/549 | Jakub007d | failed
 ccx-messaging | 188 | Adding docker-compose for local deployments | 2024-04-12T07:36:51Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/188 | joselsegura | ok
 
