@@ -6,7 +6,6 @@ insights-results-aggregator | 2245 | chore(deps): update all dependencies | 2025
 insights-results-aggregator | 2123 | [CCXDEV-14693] Test konflux integration tests - bonfire tekton | 2025-03-14T10:36:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2123 | matysek | failed
 ccx-smart-proxy | 1565 | chore(deps): update all dependencies | 2025-08-03T10:59:00Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1565 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1564 | fix(deps): update module github.com/prometheus/client_golang to v1.23.0 | 2025-08-03T06:52:40Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1564 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1562 | Bump github.com/prometheus/client_golang from 1.22.0 to 1.23.0 | 2025-07-31T17:31:49Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1562 | app/dependabot | failed
 ccx-smart-proxy | 1557 | DO NOT MERGE POC shared workflows | 2025-07-25T10:22:18Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1557 | Jakub007d | failed
 ccx-smart-proxy | 1288 | Adding basic code for implementing a benchmark over Redis storage | 2024-07-11T11:22:59Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1288 | joselsegura | failed
 ccx-smart-proxy | 1260 | sync clowdapp name with app-interface | 2024-04-25T13:10:25Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1260 | matysek | ok
