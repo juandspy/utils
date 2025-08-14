@@ -21,7 +21,6 @@ io-gathering-service | 469 | fix(deps): update module github.com/unleash/unleash
 io-gathering-service | 468 | chore(deps): update dependency go to v1.24.6 | 2025-08-10T08:13:10Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/468 | app/red-hat-konflux | failed
 io-gathering-service | 467 | chore(deps): update konflux references | 2025-08-09T12:29:30Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/467 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
-obsint-mocks | 152 | [CCXDEV-15282] conf: add cpu and memory limits and requests | 2025-08-12T08:58:06Z | https://github.com/RedHatInsights/obsint-mocks/pull/152 | juandspy | ok
 ccx-messaging | 570 | DO NOT MERGE Memray test | 2025-08-12T13:31:24Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/570 | Jakub007d | failed
 ccx-messaging | 564 | DO NOT MERGE! POC ccx-messaging memory leak investigation | 2025-08-04T07:55:03Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/564 | Jakub007d | failed
 ccx-messaging | 188 | Adding docker-compose for local deployments | 2024-04-12T07:36:51Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/188 | joselsegura | ok
