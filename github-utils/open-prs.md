@@ -26,7 +26,9 @@ io-gathering-service | 471 | chore(deps): update konflux references | 2025-08-16
 io-gathering-service | 469 | fix(deps): update module github.com/unleash/unleash-client-go/v4 to v5 | 2025-08-10T12:09:34Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/469 | app/red-hat-konflux | failed
 io-gathering-service | 468 | chore(deps): update dependency go to v1.25.0 | 2025-08-10T08:13:10Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/468 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
-ccx-messaging | 570 | DO NOT MERGE Memray test | 2025-08-12T13:31:24Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/570 | Jakub007d | failed
+ccx-messaging | 573 | Updating "Unknown error while downloading the file:%s" error log to be handled as  one issue in Glitchtip | 2025-08-18T12:41:38Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/573 | Jakub007d | failed
+ccx-messaging | 572 | build(deps): update boto3 requirement from <1.40.7,>=1.34.1 to >=1.34.1,<1.40.12 | 2025-08-18T11:28:15Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/572 | app/dependabot | failed
+ccx-messaging | 571 | build(deps): bump aiobotocore from 2.24.0 to 2.24.1 | 2025-08-18T10:42:30Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/571 | app/dependabot | failed
 ccx-messaging | 564 | DO NOT MERGE! POC ccx-messaging memory leak investigation | 2025-08-04T07:55:03Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/564 | Jakub007d | failed
 ccx-messaging | 188 | Adding docker-compose for local deployments | 2024-04-12T07:36:51Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/188 | joselsegura | ok
 
