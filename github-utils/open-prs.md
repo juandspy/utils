@@ -3,6 +3,7 @@ repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2248 | chore(deps): update dependency go to v1.25.0 | 2025-08-10T08:36:08Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2248 | app/red-hat-konflux | failed
 insights-results-aggregator | 2123 | [CCXDEV-14693] Test konflux integration tests - bonfire tekton | 2025-03-14T10:36:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2123 | matysek | failed
+ccx-smart-proxy | 1582 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.476 to 0.1.477 | 2025-08-29T17:02:25Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1582 | app/dependabot | failed
 ccx-smart-proxy | 1575 | fix: update Konflux references | 2025-08-20T12:19:18Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1575 | juandspy | failed
 ccx-smart-proxy | 1569 | chore(deps): update dependency go to v1.25.0 | 2025-08-10T08:33:19Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1569 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1564 | fix(deps): update module github.com/prometheus/client_golang to v1.23.0 | 2025-08-03T06:52:40Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1564 | app/red-hat-konflux | failed
