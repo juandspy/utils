@@ -1,17 +1,15 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2259 | fix(deps): update module github.com/ibm/sarama to v1.46.0 | 2025-08-31T12:46:05Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2259 | app/red-hat-konflux | failed
 insights-results-aggregator | 2248 | chore(deps): update dependency go to v1.25.0 | 2025-08-10T08:36:08Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2248 | app/red-hat-konflux | failed
 insights-results-aggregator | 2123 | [CCXDEV-14693] Test konflux integration tests - bonfire tekton | 2025-03-14T10:36:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2123 | matysek | failed
-ccx-smart-proxy | 1587 | Bump github.com/redis/go-redis/v9 from 9.12.1 to 9.13.0 | 2025-09-04T03:56:54Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1587 | app/dependabot | ok
+ccx-smart-proxy | 1589 | Bump github.com/prometheus/client_golang from 1.23.0 to 1.23.1 | 2025-09-04T17:02:50Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1589 | app/dependabot | failed
 ccx-smart-proxy | 1585 | chore(deps): update all dependencies | 2025-08-31T16:23:55Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1585 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1584 | fix(deps): update module github.com/openshift-online/ocm-sdk-go to v0.1.477 | 2025-08-31T08:33:31Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1584 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1569 | chore(deps): update dependency go to v1.25.0 | 2025-08-10T08:33:19Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1569 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1557 | DO NOT MERGE POC shared workflows | 2025-07-25T10:22:18Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1557 | Jakub007d | failed
 ccx-smart-proxy | 1288 | Adding basic code for implementing a benchmark over Redis storage | 2024-07-11T11:22:59Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1288 | joselsegura | failed
 ccx-smart-proxy | 1260 | sync clowdapp name with app-interface | 2024-04-25T13:10:25Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1260 | matysek | ok
-ccx-notification-writer | 645 | [CCXDEV-15345] feat: add new indexes to the database | 2025-09-02T13:12:33Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/645 | juandspy | ok
 ccx-notification-writer | 644 | fix(deps): update module github.com/ibm/sarama to v1.46.0 | 2025-08-31T12:43:30Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/644 | app/red-hat-konflux | failed
 ccx-notification-writer | 643 | chore(deps): update all dependencies | 2025-08-31T08:29:51Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/643 | app/red-hat-konflux | failed
 ccx-notification-writer | 640 | Bump github.com/IBM/sarama from 1.45.2 to 1.46.0 | 2025-08-26T02:15:57Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/640 | app/dependabot | failed
@@ -23,8 +21,6 @@ ccx-notification-service | 993 | chore(deps): update all dependencies | 2025-08-
 ccx-notification-service | 985 | chore(deps): update dependency go to v1.25.0 | 2025-08-10T08:21:17Z | https://github.com/RedHatInsights/ccx-notification-service/pull/985 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 obsint-mocks | 153 | Expose mock services publicly | 2025-09-02T09:04:40Z | https://github.com/RedHatInsights/obsint-mocks/pull/153 | ikerreyes | ok
-ccx-messaging | 581 | Fix kafka consumer | 2025-09-03T12:35:20Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/581 | lenasolarova | ok
-ccx-messaging | 574 | Updating error messages for tar_path to be singe issue in glitchtip | 2025-08-19T13:55:56Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/574 | Jakub007d | failed
 ccx-messaging | 564 | DO NOT MERGE! POC ccx-messaging memory leak investigation | 2025-08-04T07:55:03Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/564 | Jakub007d | failed
 ccx-messaging | 188 | Adding docker-compose for local deployments | 2024-04-12T07:36:51Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/188 | joselsegura | ok
 
