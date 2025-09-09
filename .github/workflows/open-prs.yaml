@@ -25,6 +25,10 @@ jobs:
         run: |
           npm install -g csv2md
 
+      - name: Pull latest changes
+        run: |
+          git pull origin master
+
       - name: Run scripts to update PR report
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
