@@ -1,6 +1,7 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2269 | chore(deps): update konflux references | 2025-09-13T08:34:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2269 | app/red-hat-konflux | failed
 insights-results-aggregator | 2268 | DO NOT MERGE redis empty rules_id investigation | 2025-09-09T10:22:37Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2268 | Jakub007d | failed
 insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T08:18:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2260 | juandspy | ok
 ccx-smart-proxy | 1596 | [CCXDEV-15295]Updating logs for better glitchtip handling | 2025-09-11T10:19:21Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1596 | Jakub007d | failed
