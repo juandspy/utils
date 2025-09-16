@@ -7,7 +7,6 @@ insights-results-aggregator | 2269 | chore(deps): update konflux references | 20
 insights-results-aggregator | 2268 | DO NOT MERGE redis empty rules_id investigation | 2025-09-09T10:22:37Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2268 | Jakub007d | failed
 insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T08:18:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2260 | juandspy | ok
 ccx-smart-proxy | 1598 | chore(deps): update all dependencies | 2025-09-14T12:40:46Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1598 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1596 | [CCXDEV-15295]Updating logs for better glitchtip handling | 2025-09-11T10:19:21Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1596 | Jakub007d | failed
 ccx-notification-writer | 655 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2025-09-14T12:42:12Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/655 | app/red-hat-konflux | failed
 ccx-notification-service | 1004 | chore(deps): update all dependencies | 2025-09-14T08:24:33Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1004 | app/red-hat-konflux | failed
 ccx-notification-service | 1003 | fix(deps): update module github.com/spf13/viper to v1.21.0 | 2025-09-14T08:18:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1003 | app/red-hat-konflux | failed
