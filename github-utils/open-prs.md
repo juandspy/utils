@@ -13,6 +13,5 @@ ccx-notification-service | 1003 | fix(deps): update module github.com/spf13/vipe
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 obsint-mocks | 154 | Drop Service objects as we rely on clowder generated ones | 2025-09-05T13:57:45Z | https://github.com/RedHatInsights/obsint-mocks/pull/154 | ikerreyes | ok
 obsint-mocks | 153 | Expose mock services publicly | 2025-09-02T09:04:40Z | https://github.com/RedHatInsights/obsint-mocks/pull/153 | ikerreyes | ok
-ccx-messaging | 589 | [CCXDEV-15296]Updating Multiplexor Glitchtip issues generation | 2025-09-16T10:17:34Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/589 | Jakub007d | failed
 ccx-messaging | 564 | DO NOT MERGE! POC ccx-messaging memory leak investigation | 2025-08-04T07:55:03Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/564 | Jakub007d | failed
 
