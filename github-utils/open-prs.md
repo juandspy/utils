@@ -12,6 +12,5 @@ ccx-notification-service | 1004 | chore(deps): update all dependencies | 2025-09
 ccx-notification-service | 1003 | fix(deps): update module github.com/spf13/viper to v1.21.0 | 2025-09-14T08:18:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1003 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 obsint-mocks | 154 | Drop Service objects as we rely on clowder generated ones | 2025-09-05T13:57:45Z | https://github.com/RedHatInsights/obsint-mocks/pull/154 | ikerreyes | ok
-obsint-mocks | 153 | Expose mock services publicly | 2025-09-02T09:04:40Z | https://github.com/RedHatInsights/obsint-mocks/pull/153 | ikerreyes | ok
 ccx-messaging | 564 | DO NOT MERGE! POC ccx-messaging memory leak investigation | 2025-08-04T07:55:03Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/564 | Jakub007d | failed
 
