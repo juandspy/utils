@@ -1,6 +1,7 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2280 | [CCXDEV-15283] Update orgID for the given cluster when it changes | 2025-09-30T13:43:41Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2280 | JiriPapousek | failed
 insights-results-aggregator | 2279 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2025-09-30T00:22:02Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2279 | app/red-hat-konflux | failed
 insights-results-aggregator | 2275 | chore(deps): update konflux references | 2025-09-24T16:41:37Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2275 | app/red-hat-konflux | failed
 insights-results-aggregator | 2268 | DO NOT MERGE redis empty rules_id investigation | 2025-09-09T10:22:37Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2268 | Jakub007d | failed
