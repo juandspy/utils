@@ -1,8 +1,8 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2281 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2025-10-01T16:27:41Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2281 | app/red-hat-konflux | failed
 insights-results-aggregator | 2280 | [CCXDEV-15283] Update orgID for the given cluster when it changes | 2025-09-30T13:43:41Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2280 | JiriPapousek | failed
-insights-results-aggregator | 2279 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2025-09-30T00:22:02Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2279 | app/red-hat-konflux | failed
 insights-results-aggregator | 2275 | chore(deps): update konflux references | 2025-09-24T16:41:37Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2275 | app/red-hat-konflux | failed
 insights-results-aggregator | 2268 | DO NOT MERGE redis empty rules_id investigation | 2025-09-09T10:22:37Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2268 | Jakub007d | failed
 insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T08:18:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2260 | juandspy | ok
@@ -12,7 +12,7 @@ insights-results-aggregator-cleaner | 515 | fix(deps): update module github.com/
 insights-results-aggregator-cleaner | 514 | chore(deps): update all dependencies | 2025-09-21T08:31:52Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/514 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 513 | chore(deps): update konflux references | 2025-09-20T08:43:30Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/513 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1605 | chore(deps): update all dependencies | 2025-09-27T04:19:09Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1605 | app/red-hat-konflux | failed
-ccx-notification-writer | 665 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2025-09-30T00:22:29Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/665 | app/red-hat-konflux | failed
+ccx-notification-writer | 666 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2025-10-01T16:27:51Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/666 | app/red-hat-konflux | failed
 ccx-notification-writer | 658 | fix(deps): update module github.com/ibm/sarama to v1.46.1 | 2025-09-21T08:26:55Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/658 | app/red-hat-konflux | failed
 ccx-notification-writer | 656 | build(deps): bump github.com/IBM/sarama from 1.45.2 to 1.46.1 | 2025-09-19T14:06:52Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/656 | app/dependabot | failed
 ccx-notification-service | 1008 | fix(deps): update module github.com/openshift-online/ocm-sdk-go to v0.1.478 | 2025-09-24T16:42:53Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1008 | app/red-hat-konflux | failed
