@@ -1,7 +1,6 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2295 | chore(deps): update all dependencies | 2025-10-17T00:21:30Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2295 | app/red-hat-konflux | failed
 insights-results-aggregator | 2268 | DO NOT MERGE redis empty rules_id investigation | 2025-09-09T10:22:37Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2268 | Jakub007d | failed
 insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T08:18:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2260 | juandspy | ok
 insights-results-aggregator-cleaner | 525 | chore(deps): update all dependencies | 2025-10-17T00:21:52Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/525 | app/red-hat-konflux | failed
