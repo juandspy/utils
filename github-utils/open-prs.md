@@ -9,7 +9,7 @@ insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T
 ccx-smart-proxy | 1616 | chore(deps): update dependency github-pages to v232 | 2025-10-22T12:16:34Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1616 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1612 | chore(deps): update all dependencies | 2025-10-10T16:32:23Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1612 | app/red-hat-konflux | failed
 ccx-notification-writer | 683 | chore(deps): update dependency jekyll-feed to "~> 0.17.0" | 2025-10-22T12:15:43Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/683 | app/red-hat-konflux | failed
-ccx-notification-service | 1030 | chore(deps): update all dependencies | 2025-10-24T12:21:29Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1030 | app/red-hat-konflux | failed
+ccx-notification-service | 1031 | chore(deps): update all dependencies | 2025-10-25T20:31:17Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1031 | app/red-hat-konflux | failed
 ccx-notification-service | 1026 | chore(deps): update dependency github-pages to v232 | 2025-10-22T12:15:52Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1026 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-insights-content-template-renderer | 226 | Bump fastapi from 0.118.0 to 0.119.1 | 2025-10-20T23:07:31Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/226 | app/dependabot | failed
