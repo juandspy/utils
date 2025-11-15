@@ -1,8 +1,7 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2324 | chore(deps): update all dependencies | 2025-11-13T17:00:44Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2324 | app/red-hat-konflux | failed
-insights-results-aggregator | 2316 | [CCXDEV-14974] Enable TLS encryption on aggregator traffic | 2025-11-10T08:11:17Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2316 | JiriPapousek | failed
+insights-results-aggregator | 2316 | [CCXDEV-14974] Enable TLS encryption on aggregator traffic | 2025-11-10T08:11:17Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2316 | JiriPapousek | ok
 insights-results-aggregator | 2305 | Move DB definition from aggregator to DVO writer | 2025-10-23T22:22:31Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2305 | ikerreyes | ok
 insights-results-aggregator | 2301 | Add dependency for dvo-writer | 2025-10-22T22:07:54Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2301 | ikerreyes | ok
 insights-results-aggregator | 2268 | DO NOT MERGE redis empty rules_id investigation | 2025-09-09T10:22:37Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2268 | Jakub007d | failed
