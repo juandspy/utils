@@ -8,6 +8,5 @@ insights-results-aggregator | 2268 | DO NOT MERGE redis empty rules_id investiga
 insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T08:18:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2260 | juandspy | ok
 insights-results-aggregator-cleaner | 547 | chore(deps): update all dependencies | 2025-11-11T12:42:52Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/547 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
-ccx-insights-content-template-renderer | 233 | Better handling rendering errors | 2025-11-13T16:00:33Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/233 | joselsegura | ok
 ccx-messaging | 564 | DO NOT MERGE! POC ccx-messaging memory leak investigation | 2025-08-04T07:55:03Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/564 | Jakub007d | failed
 
