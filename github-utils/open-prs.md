@@ -1,7 +1,6 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2334 | chore(deps): update all dependencies | 2025-12-01T13:02:34Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2334 | app/red-hat-konflux | failed
 insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T08:18:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2260 | juandspy | ok
 ccx-smart-proxy | 1638 | Update module github.com/redis/go-redis/v9 to v9.17.2 | 2025-12-01T20:50:03Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1638 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1637 | Bump github.com/redis/go-redis/v9 from 9.17.1 to 9.17.2 | 2025-12-01T18:26:07Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1637 | app/dependabot | failed
