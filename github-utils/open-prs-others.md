@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2025/12/06 04:11:54
+# Open Pull Requests (Others) - 2025/12/07 04:24:50
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2335 | [CCXDEV-15617] Add AGENTS.MD | 2025-12-05T13:12:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2335 | lenasolarova | failed
