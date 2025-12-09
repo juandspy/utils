@@ -1,6 +1,7 @@
-# Open Pull Requests (Others) - 2025/12/08 04:24:33
+# Open Pull Requests (Others) - 2025/12/09 04:19:34
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+io-gathering-service | 546 | Bump golang.org/x/sync from 0.18.0 to 0.19.0 | 2025-12-08T18:03:51Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/546 | app/dependabot | failed
 insights-results-aggregator | 2335 | [CCXDEV-15617] Add AGENTS.MD | 2025-12-05T13:12:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2335 | lenasolarova | failed
 obsint-mocks | 161 | Refactor mock AMS configuration | 2025-12-05T12:45:37Z | https://github.com/RedHatInsights/obsint-mocks/pull/161 | ikerreyes | ok
 ccx-smart-proxy | 1637 | Bump github.com/redis/go-redis/v9 from 9.17.1 to 9.17.2 | 2025-12-01T18:26:07Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1637 | app/dependabot | failed
