@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2025/12/09 04:19:34
+# Open Pull Requests (Others) - 2025/12/10 04:24:04
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 io-gathering-service | 546 | Bump golang.org/x/sync from 0.18.0 to 0.19.0 | 2025-12-08T18:03:51Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/546 | app/dependabot | failed
