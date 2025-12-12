@@ -5,67 +5,18 @@
 
 set -e
 
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# Get the utils root directory (parent of script directory)
+UTILS_ROOT="$(cd "${SCRIPT_DIR}/.." && pwd)"
+
+# Source common functions
+source "${UTILS_ROOT}/common/common-functions.sh"
+
 # Configuration
 CLONE_BASE_DIR="/tmp/dockerfile_check"
 REPOS_YAML="/Users/jdiazsua/Documents/Projects/utils/ansible-utils/playbooks/vars/repos.yaml"
 OUTPUT_FILE="dockerfile_users_report.csv"
-
-# Colors for output
-RED='\033[0;31m'
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-BLUE='\033[0;34m'
-NC='\033[0m' # No Color
-
-# Function to print colored output
-print_status() {
-    echo -e "${BLUE}[INFO]${NC} $1"
-}
-
-
-print_success() {
-    echo -e "${GREEN}[SUCCESS]${NC} $1"
-}
-
-print_warning() {
-    echo -e "${YELLOW}[WARNING]${NC} $1"
-}
-
-print_error() {
-    echo -e "${RED}[ERROR]${NC} $1"
-}
-
-# Function to extract repos from YAML file
-extract_repos() {
-    local yaml_file="$1"
-    if [[ ! -f "$yaml_file" ]]; then
-        print_error "Repos YAML file not found: $yaml_file"
-        exit 1
-    fi
-    
-    # Check if yq is available
-    if ! command -v yq &> /dev/null; then
-        print_error "yq is required but not installed. Please install yq first."
-        exit 1
-    fi
-    
-    # Extract repo names using yq
-    yq eval '.repos | keys | .[]' "$yaml_file"
-}
-
-# Function to get repo URL from YAML
-get_repo_url() {
-    local repo_name="$1"
-    local yaml_file="$2"
-    yq eval ".repos.${repo_name}.url" "$yaml_file"
-}
-
-# Function to get default branch from YAML
-get_default_branch() {
-    local repo_name="$1"
-    local yaml_file="$2"
-    yq eval ".repos.${repo_name}.default_branch" "$yaml_file"
-}
 
 # Function to find Dockerfile/Containerfile
 find_dockerfile() {
@@ -126,31 +77,13 @@ extract_users() {
     fi
 }
 
-# Function to get Dockerfile URL
+# Function to get Dockerfile URL (wrapper around common get_file_url)
 get_dockerfile_url() {
     local repo_name="$1"
     local repo_url="$2"
     local default_branch="$3"
     local dockerfile_path="$4"
-    
-    # Convert SSH URLs to HTTPS for GitHub/GitLab
-    local web_url="$repo_url"
-    if [[ "$repo_url" == git@github.com:* ]]; then
-        web_url=$(echo "$repo_url" | sed 's|git@github.com:|https://github.com/|' | sed 's|\.git$||')
-    elif [[ "$repo_url" == git@gitlab.cee.redhat.com:* ]]; then
-        web_url=$(echo "$repo_url" | sed 's|git@gitlab.cee.redhat.com:|https://gitlab.cee.redhat.com/|' | sed 's|\.git$||')
-    fi
-    
-    # Construct the URL to the Dockerfile
-    if [[ "$dockerfile_path" == "NONE" ]]; then
-        echo "No Dockerfile found"
-    else
-        if [[ "$web_url" == https://github.com/* ]]; then
-            echo "${web_url}/blob/${default_branch}/${dockerfile_path}"
-        else
-            echo "${web_url}/-/blob/${default_branch}/${dockerfile_path}"
-        fi
-    fi
+    get_file_url "$repo_url" "$default_branch" "$dockerfile_path" "No Dockerfile found"
 }
 
 # Main execution
@@ -172,7 +105,7 @@ main() {
         exit 1
     fi
     
-    print_success "Found ${#all_repos[@]} total repositories, analyzing first ${#repos[@]} repositories"
+    print_success "Found ${#repos[@]} repositories to analyze"
     
     # Process each repository
     for repo in "${repos[@]}"; do
