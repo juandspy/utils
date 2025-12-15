@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2025/12/14 04:28:01
+# Open Pull Requests (app/red-hat-konflux) - 2025/12/15 04:31:54
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1641 | Update module github.com/redis/go-redis/v9 to v9.17.2 | 2025-12-12T20:49:09Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1641 | app/red-hat-konflux | failed

@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2025/12/14 04:28:01
+# Open Pull Requests (Others) - 2025/12/15 04:31:54
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1640 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.484 to 0.1.486 | 2025-12-10T17:02:49Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1640 | app/dependabot | failed
