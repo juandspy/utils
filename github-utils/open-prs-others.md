@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2025/12/16 04:26:46
+# Open Pull Requests (Others) - 2025/12/17 04:23:37
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T08:18:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2260 | juandspy | ok
