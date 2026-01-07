@@ -8,6 +8,7 @@ insights-results-aggregator-cleaner | 566 | chore(deps): update all dependencies
 ccx-smart-proxy | 1647 | Do not merge! Testing coderabbitai | 2026-01-05T11:12:33Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1647 | matysek | failed
 ccx-notification-writer | 735 | chore(deps): update all dependencies | 2026-01-05T16:55:38Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/735 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+ccx-messaging | 633 | [CCXDEV-15676] Remove archive-sync-ols from ccx-messaging | 2026-01-06T10:48:43Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/633 | lenasolarova | failed
 ccx-messaging | 632 | Do not merge! Testing coderabbitai | 2026-01-05T12:53:25Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/632 | matysek | ok
 ccx-messaging | 630 | build(deps): bump aiobotocore from 2.26.0 to 3.1.0 | 2026-01-05T07:05:38Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/630 | app/dependabot | failed
 
