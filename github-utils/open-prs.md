@@ -1,15 +1,14 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2353 | chore(deps): update all dependencies | 2026-01-15T16:55:59Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2353 | app/red-hat-konflux | failed
+insights-results-aggregator | 2354 | chore(deps): update all dependencies | 2026-01-16T17:18:50Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2354 | app/red-hat-konflux | failed
 insights-results-aggregator | 2348 | Do not merge! Testing coderabbitai | 2026-01-05T13:02:13Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2348 | matysek | ok
 insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T08:18:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2260 | juandspy | ok
+insights-results-aggregator-cleaner | 577 | chore(deps): update all dependencies | 2026-01-16T20:44:32Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/577 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 500 | chore(deps): update all dependencies | 2026-01-11T00:43:55Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/500 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1647 | Do not merge! Testing coderabbitai | 2026-01-05T11:12:33Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1647 | matysek | failed
-ccx-notification-writer | 740 | chore(deps): update all dependencies | 2026-01-15T16:54:47Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/740 | app/red-hat-konflux | ok
 ccx-notification-service | 1048 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.486 to 0.1.487 | 2026-01-13T08:11:08Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1048 | app/dependabot | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
-ccx-messaging | 639 | Add ingress dependency | 2026-01-15T12:14:50Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/639 | lenasolarova | failed
 ccx-messaging | 637 | [CCXDEV-15881] Remove multiplexor stage two | 2026-01-14T08:39:42Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/637 | lenasolarova | failed
 ccx-messaging | 632 | Do not merge! Testing coderabbitai | 2026-01-05T12:53:25Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/632 | matysek | ok
 
