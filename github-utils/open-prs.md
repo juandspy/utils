@@ -1,13 +1,7 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2357 | fix(deps): update module github.com/lib/pq to v1.11.0 | 2026-01-29T00:46:17Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2357 | app/red-hat-konflux | failed
-insights-results-aggregator | 2356 | chore(deps): update all dependencies | 2026-01-27T12:50:13Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2356 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1664 | Update module github.com/golang-jwt/jwt/v5 to v5.3.1 | 2026-01-29T00:47:15Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1664 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1663 | Bump github.com/redis/go-redis/v9 from 9.17.2 to 9.17.3 | 2026-01-26T19:39:31Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1663 | app/dependabot | failed
 ccx-smart-proxy | 1662 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.492 to 0.1.493 | 2026-01-26T19:39:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1662 | app/dependabot | failed
-ccx-smart-proxy | 1661 | Update module github.com/redis/go-redis/v9 to v9.17.3 | 2026-01-25T12:46:35Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1661 | app/red-hat-konflux | failed
-ccx-notification-writer | 744 | chore(deps): update all dependencies | 2026-01-27T12:50:21Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/744 | app/red-hat-konflux | ok
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-messaging | 645 | build(deps): bump aiobotocore from 2.26.0 to 3.1.1 | 2026-01-26T07:50:41Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/645 | app/dependabot | failed
 
