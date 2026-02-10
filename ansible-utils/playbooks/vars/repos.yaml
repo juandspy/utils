@@ -1,29 +1,29 @@
 ---
 repos:
   ccx-upgrades-inference:
-    url: git@gitlab.cee.redhat.com:ccx/ccx-upgrades-inference
+    url: https://github.com/RedHatInsights/ccx-upgrades-inference
     default_branch: main
-    source: gitlab
+    source: github
   ccx-upgrades-data-eng:
-    url: git@gitlab.cee.redhat.com:ccx/ccx-upgrades-data-eng
+    url: https://github.com/RedHatInsights/ccx-upgrades-data-eng
     default_branch: main
-    source: gitlab
+    source: github
   ccx-load-test:
     url: git@gitlab.cee.redhat.com:ccx/ccx-load-test
     default_branch: main
     source: gitlab
   parquet-factory:
-    url: git@gitlab.cee.redhat.com:ccx/parquet-factory
-    default_branch: master
-    source: gitlab
+    url: https://github.com/RedHatInsights/parquet-factory
+    default_branch: main
+    source: github
   ccx-data-pipeline:
-    url: git@gitlab.cee.redhat.com:ccx/ccx-data-pipeline.git
-    default_branch: master
-    source: gitlab
+    url: https://github.com/RedHatInsights/data-pipeline
+    default_branch: main
+    source: github
   ccx-insights-content-service:
-    url: git@gitlab.cee.redhat.com:ccx/content-service.git
-    default_branch: master
-    source: gitlab
+    url: https://github.com/RedHatInsights/content-service
+    default_branch: main
+    source: github
   insights-results-aggregator:
     url: https://github.com/RedHatInsights/insights-results-aggregator
     default_branch: master
