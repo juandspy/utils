@@ -1,19 +1,15 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 11 | [CCXDEV-15923] Enable codecov reporting | 2026-02-09T12:21:48Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/11 | ikerreyes | ok
-ccx-upgrades-data-eng | 12 | [CCXDEV-15924] Add codecov reporting | 2026-02-09T11:51:59Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/12 | ikerreyes | ok
-ccx-upgrades-data-eng | 6 | Update ghcr.io/navikt/mock-oauth2-server Docker tag to v3 | 2026-01-23T12:50:03Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/6 | app/red-hat-konflux | failed
-ccx-upgrades-data-eng | 5 | Update ghcr.io/navikt/mock-oauth2-server Docker tag to v2.3.0 | 2026-01-23T12:49:58Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/5 | app/red-hat-konflux | failed
-parquet-factory | 7 | [CCXDEV-15927] Enable codecov reports | 2026-02-09T13:07:14Z | https://github.com/RedHatInsights/parquet-factory/pull/7 | ikerreyes | failed
 parquet-factory | 6 | Update Go dependencies | 2026-02-09T12:58:36Z | https://github.com/RedHatInsights/parquet-factory/pull/6 | app/red-hat-konflux | failed
-ccx-data-pipeline | 12 | Bumped ccx-rules-ocp version | 2026-02-10T13:18:52Z | https://github.com/RedHatInsights/data-pipeline/pull/12 | InsightsDroid | failed
+ccx-data-pipeline | 13 | conf: parametrize dvo-extractor logging | 2026-02-11T13:36:57Z | https://github.com/RedHatInsights/data-pipeline/pull/13 | juandspy | failed
 ccx-data-pipeline | 11 | test | 2026-02-10T11:00:19Z | https://github.com/RedHatInsights/data-pipeline/pull/11 | juandspy | failed
 ccx-data-pipeline | 9 | chore(deps): update python dependencies | 2026-02-10T00:53:29Z | https://github.com/RedHatInsights/data-pipeline/pull/9 | app/red-hat-konflux | failed
-ccx-insights-content-service | 714 | Bumped ccx-rules-ocp version | 2026-02-10T13:18:51Z | https://github.com/RedHatInsights/content-service/pull/714 | InsightsDroid | failed
-ccx-insights-content-service | 711 | [CCXDEV-15926] Enable codecov reporting | 2026-02-09T12:28:44Z | https://github.com/RedHatInsights/content-service/pull/711 | ikerreyes | ok
 ccx-insights-content-service | 710 | Update Pre-commit hooks | 2026-02-06T16:54:42Z | https://github.com/RedHatInsights/content-service/pull/710 | app/red-hat-konflux | failed
 ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:35Z | https://github.com/RedHatInsights/content-service/pull/709 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1670 | dummy commit to test CI | 2026-02-11T21:00:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1670 | Bee-lee | failed
+ccx-smart-proxy | 1669 | fix `/rating` endpoint ignoring error codes and non-200 aggregator responses | 2026-02-11T18:44:08Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1669 | Bee-lee | failed
+ccx-smart-proxy | 1668 | [DONT MERGE] Force CI execution | 2026-02-11T15:23:16Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1668 | joselsegura | failed
 io-gathering-service | 567 | fix(deps): update module github.com/unleash/unleash-go-sdk/v5 to v6 | 2026-02-03T08:58:43Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/567 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-messaging | 648 | build(deps): update boto3 requirement from <1.42.35,>=1.34.1 to >=1.34.1,<1.42.45 | 2026-02-09T07:43:50Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/648 | app/dependabot | failed
