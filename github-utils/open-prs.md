@@ -2,13 +2,12 @@
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 parquet-factory | 6 | Update Go dependencies | 2026-02-09T12:58:36Z | https://github.com/RedHatInsights/parquet-factory/pull/6 | app/red-hat-konflux | failed
-ccx-data-pipeline | 13 | conf: parametrize dvo-extractor logging | 2026-02-11T13:36:57Z | https://github.com/RedHatInsights/data-pipeline/pull/13 | juandspy | failed
 ccx-data-pipeline | 11 | test | 2026-02-10T11:00:19Z | https://github.com/RedHatInsights/data-pipeline/pull/11 | juandspy | failed
 ccx-data-pipeline | 9 | chore(deps): update python dependencies | 2026-02-10T00:53:29Z | https://github.com/RedHatInsights/data-pipeline/pull/9 | app/red-hat-konflux | failed
 ccx-insights-content-service | 710 | Update Pre-commit hooks | 2026-02-06T16:54:42Z | https://github.com/RedHatInsights/content-service/pull/710 | app/red-hat-konflux | failed
 ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:35Z | https://github.com/RedHatInsights/content-service/pull/709 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1670 | dummy commit to test CI | 2026-02-11T21:00:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1670 | Bee-lee | failed
-ccx-smart-proxy | 1669 | fix `/rating` endpoint ignoring error codes and non-200 aggregator responses | 2026-02-11T18:44:08Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1669 | Bee-lee | failed
+insights-results-aggregator | 2363 | [DONT MERGE] Use reusable BDD workflow | 2026-02-12T12:31:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2363 | joselsegura | failed
+ccx-smart-proxy | 1670 | dummy commit to test CI | 2026-02-11T21:00:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1670 | Bee-lee | ok
 ccx-smart-proxy | 1668 | [DONT MERGE] Force CI execution | 2026-02-11T15:23:16Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1668 | joselsegura | failed
 io-gathering-service | 567 | fix(deps): update module github.com/unleash/unleash-go-sdk/v5 to v6 | 2026-02-03T08:58:43Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/567 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
