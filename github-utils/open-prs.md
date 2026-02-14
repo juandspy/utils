@@ -2,9 +2,10 @@
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 parquet-factory | 6 | Update Go dependencies | 2026-02-09T12:58:36Z | https://github.com/RedHatInsights/parquet-factory/pull/6 | app/red-hat-konflux | failed
-ccx-data-pipeline | 11 | test | 2026-02-10T11:00:19Z | https://github.com/RedHatInsights/data-pipeline/pull/11 | juandspy | failed
-ccx-data-pipeline | 9 | chore(deps): update python dependencies | 2026-02-10T00:53:29Z | https://github.com/RedHatInsights/data-pipeline/pull/9 | app/red-hat-konflux | failed
-ccx-insights-content-service | 710 | Update Pre-commit hooks | 2026-02-06T16:54:42Z | https://github.com/RedHatInsights/content-service/pull/710 | app/red-hat-konflux | failed
+ccx-data-pipeline | 18 | chore(deps): update python dependencies | 2026-02-13T12:55:32Z | https://github.com/RedHatInsights/data-pipeline/pull/18 | app/red-hat-konflux | failed
+ccx-data-pipeline | 17 | Potential fix for code scanning alert no. 1: Workflow does not contain permissions | 2026-02-13T11:47:57Z | https://github.com/RedHatInsights/data-pipeline/pull/17 | juandspy | failed
+ccx-data-pipeline | 16 | [CCXDEV-14701] conf: remove pr_check.sh | 2026-02-13T08:00:35Z | https://github.com/RedHatInsights/data-pipeline/pull/16 | juandspy | failed
+ccx-insights-content-service | 718 | Trigger Build | 2026-02-13T18:37:23Z | https://github.com/RedHatInsights/content-service/pull/718 | ikerreyes | failed
 ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:35Z | https://github.com/RedHatInsights/content-service/pull/709 | app/red-hat-konflux | failed
 insights-results-aggregator | 2363 | [DONT MERGE] Use reusable BDD workflow | 2026-02-12T12:31:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2363 | joselsegura | failed
 ccx-smart-proxy | 1670 | dummy commit to test CI | 2026-02-11T21:00:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1670 | Bee-lee | ok
