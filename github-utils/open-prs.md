@@ -2,6 +2,7 @@
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 parquet-factory | 6 | Update Go dependencies | 2026-02-09T12:58:36Z | https://github.com/RedHatInsights/parquet-factory/pull/6 | app/red-hat-konflux | failed
+ccx-data-pipeline | 20 | chore(deps): update konflux references | 2026-02-14T09:06:23Z | https://github.com/RedHatInsights/data-pipeline/pull/20 | app/red-hat-konflux | failed
 ccx-data-pipeline | 18 | chore(deps): update python dependencies | 2026-02-13T12:55:32Z | https://github.com/RedHatInsights/data-pipeline/pull/18 | app/red-hat-konflux | failed
 ccx-data-pipeline | 17 | Potential fix for code scanning alert no. 1: Workflow does not contain permissions | 2026-02-13T11:47:57Z | https://github.com/RedHatInsights/data-pipeline/pull/17 | juandspy | failed
 ccx-data-pipeline | 16 | [CCXDEV-14701] conf: remove pr_check.sh | 2026-02-13T08:00:35Z | https://github.com/RedHatInsights/data-pipeline/pull/16 | juandspy | failed
