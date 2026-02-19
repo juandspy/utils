@@ -3,9 +3,8 @@ repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-upgrades-inference | 16 | Trigger Build | 2026-02-16T22:15:08Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/16 | ikerreyes | ok
 parquet-factory | 6 | Update Go dependencies | 2026-02-09T12:58:36Z | https://github.com/RedHatInsights/parquet-factory/pull/6 | app/red-hat-konflux | failed
-ccx-data-pipeline | 23 | Revert release | 2026-02-17T15:58:31Z | https://github.com/RedHatInsights/data-pipeline/pull/23 | juandspy | failed
+ccx-data-pipeline | 25 | test | 2026-02-18T10:30:36Z | https://github.com/RedHatInsights/data-pipeline/pull/25 | juandspy | failed
 ccx-data-pipeline | 18 | chore(deps): update python dependencies | 2026-02-13T12:55:32Z | https://github.com/RedHatInsights/data-pipeline/pull/18 | app/red-hat-konflux | failed
-ccx-data-pipeline | 16 | [CCXDEV-14701] conf: remove pr_check.sh | 2026-02-13T08:00:35Z | https://github.com/RedHatInsights/data-pipeline/pull/16 | juandspy | failed
 ccx-insights-content-service | 721 | Update pre-commit hook golangci/golangci-lint to v2.10.1 | 2026-02-17T13:47:24Z | https://github.com/RedHatInsights/content-service/pull/721 | app/red-hat-konflux | failed
 ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:35Z | https://github.com/RedHatInsights/content-service/pull/709 | app/red-hat-konflux | failed
 insights-results-aggregator | 2364 | chore(deps): update all dependencies | 2026-02-16T17:10:20Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2364 | app/red-hat-konflux | failed
