@@ -8,6 +8,7 @@ ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:3
 insights-results-aggregator | 2363 | [DONT MERGE] Use reusable BDD workflow | 2026-02-12T12:31:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2363 | joselsegura | failed
 ccx-smart-proxy | 1670 | dummy commit to test CI | 2026-02-11T21:00:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1670 | Bee-lee | ok
 ccx-smart-proxy | 1668 | [DONT MERGE] Force CI execution | 2026-02-11T15:23:16Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1668 | joselsegura | failed
+ccx-notification-writer | 756 | chore(deps): update all dependencies | 2026-02-21T01:11:13Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/756 | app/red-hat-konflux | failed
 io-gathering-service | 567 | fix(deps): update module github.com/unleash/unleash-go-sdk/v5 to v6 | 2026-02-03T08:58:43Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/567 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-messaging | 650 | build(deps): bump aiobotocore from 2.26.0 to 3.1.3 | 2026-02-16T07:34:15Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/650 | app/dependabot | failed
