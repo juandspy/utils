@@ -3,14 +3,18 @@ repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-upgrades-inference | 22 | Update dependency fastapi to v0.133.1 | 2026-02-23T20:59:19Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/22 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 24 | Update dependency fastapi to v0.133.1 | 2026-02-23T20:59:44Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/24 | app/red-hat-konflux | failed
+parquet-factory | 9 | Simplify documentation structure | 2026-02-26T14:46:09Z | https://github.com/RedHatInsights/parquet-factory/pull/9 | ikerreyes | failed
 parquet-factory | 6 | Update Go dependencies | 2026-02-09T12:58:36Z | https://github.com/RedHatInsights/parquet-factory/pull/6 | app/red-hat-konflux | failed
 ccx-data-pipeline | 18 | chore(deps): update python dependencies | 2026-02-13T12:55:32Z | https://github.com/RedHatInsights/data-pipeline/pull/18 | app/red-hat-konflux | failed
+ccx-insights-content-service | 726 | Simplify docs for GitHub native navigation | 2026-02-26T12:54:43Z | https://github.com/RedHatInsights/content-service/pull/726 | ikerreyes | ok
+ccx-insights-content-service | 725 | Fix GitHub Pages workflow action versions | 2026-02-26T12:33:11Z | https://github.com/RedHatInsights/content-service/pull/725 | ikerreyes | failed
 ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:35Z | https://github.com/RedHatInsights/content-service/pull/709 | app/red-hat-konflux | failed
 insights-results-aggregator | 2367 | chore(deps): update all dependencies | 2026-02-24T01:02:52Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2367 | app/red-hat-konflux | failed
 insights-results-aggregator | 2363 | [DONT MERGE] Use reusable BDD workflow | 2026-02-12T12:31:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2363 | joselsegura | failed
+ccx-smart-proxy | 1676 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.496 to 0.1.497 | 2026-02-26T17:54:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1676 | app/dependabot | failed
 ccx-smart-proxy | 1670 | dummy commit to test CI | 2026-02-11T21:00:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1670 | Bee-lee | ok
 ccx-smart-proxy | 1668 | [DONT MERGE] Force CI execution | 2026-02-11T15:23:16Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1668 | joselsegura | failed
-ccx-notification-service | 1062 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.494 to 0.1.496 | 2026-02-25T07:12:49Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1062 | app/dependabot | failed
+ccx-notification-service | 1063 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.494 to 0.1.497 | 2026-02-26T07:12:48Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1063 | app/dependabot | failed
 io-gathering-service | 567 | fix(deps): update module github.com/unleash/unleash-go-sdk/v5 to v6 | 2026-02-03T08:58:43Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/567 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-messaging | 650 | build(deps): bump aiobotocore from 2.26.0 to 3.1.3 | 2026-02-16T07:34:15Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/650 | app/dependabot | failed
