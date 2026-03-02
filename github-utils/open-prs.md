@@ -1,7 +1,7 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 22 | Update dependency fastapi to v0.134.0 | 2026-02-23T20:59:19Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/22 | app/red-hat-konflux | failed
+ccx-upgrades-inference | 22 | Update dependency fastapi to v0.135.1 | 2026-02-23T20:59:19Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/22 | app/red-hat-konflux | failed
 parquet-factory | 6 | Update Go dependencies | 2026-02-09T12:58:36Z | https://github.com/RedHatInsights/parquet-factory/pull/6 | app/red-hat-konflux | failed
 ccx-data-pipeline | 18 | chore(deps): update python dependencies | 2026-02-13T12:55:32Z | https://github.com/RedHatInsights/data-pipeline/pull/18 | app/red-hat-konflux | failed
 ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:35Z | https://github.com/RedHatInsights/content-service/pull/709 | app/red-hat-konflux | failed
