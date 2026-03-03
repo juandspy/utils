@@ -2,17 +2,21 @@
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-upgrades-inference | 22 | Update dependency fastapi to v0.135.1 | 2026-02-23T20:59:19Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/22 | app/red-hat-konflux | failed
+ccx-upgrades-data-eng | 29 | chore(deps): update dependency cachetools to v7.0.2 | 2026-03-02T21:54:39Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/29 | app/red-hat-konflux | failed
 parquet-factory | 6 | Update Go dependencies | 2026-02-09T12:58:36Z | https://github.com/RedHatInsights/parquet-factory/pull/6 | app/red-hat-konflux | failed
 ccx-data-pipeline | 18 | chore(deps): update python dependencies | 2026-02-13T12:55:32Z | https://github.com/RedHatInsights/data-pipeline/pull/18 | app/red-hat-konflux | failed
 ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:35Z | https://github.com/RedHatInsights/content-service/pull/709 | app/red-hat-konflux | failed
-insights-results-aggregator | 2369 | Use reusable workflow for BDD tests | 2026-02-27T15:00:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2369 | joselsegura | failed
-insights-results-aggregator | 2368 | fix(deps): update module github.com/ibm/sarama to v1.47.0 | 2026-02-27T13:22:01Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2368 | app/red-hat-konflux | failed
-insights-results-aggregator | 2367 | chore(deps): update all dependencies | 2026-02-24T01:02:52Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2367 | app/red-hat-konflux | failed
 insights-results-aggregator | 2363 | [DONT MERGE] Use reusable BDD workflow | 2026-02-12T12:31:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2363 | joselsegura | failed
+ccx-smart-proxy | 1678 | [CCXDEV-14694] We are moving IQE tests to Konflux so we do not need the pr_check script anymore | 2026-03-02T12:50:33Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1678 | ikerreyes | failed
 ccx-smart-proxy | 1676 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.496 to 0.1.497 | 2026-02-26T17:54:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1676 | app/dependabot | failed
 ccx-smart-proxy | 1670 | dummy commit to test CI | 2026-02-11T21:00:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1670 | Bee-lee | ok
+ccx-notification-writer | 763 | chore(deps): update all dependencies | 2026-03-02T21:58:48Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/763 | app/red-hat-konflux | failed
+ccx-notification-service | 1065 | Bump github.com/IBM/sarama from 1.46.3 to 1.47.0 | 2026-03-02T07:17:36Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1065 | app/dependabot | failed
 ccx-notification-service | 1064 | fix(deps): update module github.com/ibm/sarama to v1.47.0 | 2026-02-27T13:23:53Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1064 | app/red-hat-konflux | failed
 ccx-notification-service | 1063 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.494 to 0.1.497 | 2026-02-26T07:12:48Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1063 | app/dependabot | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+ccx-insights-content-template-renderer | 251 | Bump fastapi from 0.132.0 to 0.135.1 | 2026-03-03T00:27:00Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/251 | app/dependabot | failed
+insights-behavioral-spec | 733 | Adapt scripts for aggregator-cleaner | 2026-03-02T16:34:32Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/733 | joselsegura | ok
+ccx-messaging | 652 | build(deps): update boto3 requirement from <1.42.55,>=1.34.1 to >=1.34.1,<1.42.60 | 2026-03-02T07:32:45Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/652 | app/dependabot | failed
 ccx-messaging | 650 | build(deps): bump aiobotocore from 2.26.0 to 3.1.3 | 2026-02-16T07:34:15Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/650 | app/dependabot | failed
 
