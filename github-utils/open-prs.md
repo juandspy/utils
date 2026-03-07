@@ -2,14 +2,14 @@
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-upgrades-inference | 22 | Update dependency fastapi to v0.135.1 | 2026-02-23T20:59:19Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/22 | app/red-hat-konflux | failed
-parquet-factory | 16 | fix(deps): update go dependencies | 2026-03-05T21:35:21Z | https://github.com/RedHatInsights/parquet-factory/pull/16 | app/red-hat-konflux | ok
-ccx-data-pipeline | 33 | chore(deps): update dependency boto3 to >=1.42.62,<1.43.0 | 2026-03-06T01:20:37Z | https://github.com/RedHatInsights/data-pipeline/pull/33 | app/red-hat-konflux | failed
 ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:35Z | https://github.com/RedHatInsights/content-service/pull/709 | app/red-hat-konflux | failed
+insights-results-aggregator | 2374 | chore(deps): update all dependencies | 2026-03-06T13:34:52Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2374 | app/red-hat-konflux | failed
 insights-results-aggregator | 2363 | [DONT MERGE] Use reusable BDD workflow | 2026-02-12T12:31:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2363 | joselsegura | failed
-ccx-smart-proxy | 1676 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.496 to 0.1.497 | 2026-02-26T17:54:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1676 | app/dependabot | failed
+insights-results-aggregator-exporter | 519 | Bump github.com/minio/minio-go/v7 from 7.0.98 to 7.0.99 | 2026-03-06T23:13:19Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/519 | app/dependabot | ok
+insights-results-aggregator-exporter | 518 | fix(deps): update module github.com/minio/minio-go/v7 to v7.0.99 | 2026-03-06T17:21:30Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/518 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1670 | dummy commit to test CI | 2026-02-11T21:00:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1670 | Bee-lee | ok
-ccx-notification-service | 1069 | DON'T MERGE Using reusable workflow | 2026-03-05T16:29:13Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1069 | joselsegura | ok
-ccx-notification-service | 1063 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.494 to 0.1.497 | 2026-02-26T07:12:48Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1063 | app/dependabot | ok
+ccx-notification-service | 1070 | [DON'T MERGE] Using reusable workflow | 2026-03-06T17:02:42Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1070 | joselsegura | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-insights-content-template-renderer | 251 | Bump fastapi from 0.132.0 to 0.135.1 | 2026-03-03T00:27:00Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/251 | app/dependabot | failed
+insights-behavioral-spec | 742 | Adapt script for ccx-notification-service BDD execution | 2026-03-06T16:41:42Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/742 | joselsegura | ok
 
