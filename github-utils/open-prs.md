@@ -2,6 +2,7 @@
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-upgrades-inference | 22 | Update dependency fastapi to v0.135.1 | 2026-02-23T20:59:19Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/22 | app/red-hat-konflux | failed
+ccx-data-pipeline | 34 | chore(deps): update dependency boto3 to >=1.42.63,<1.43.0 | 2026-03-07T05:47:41Z | https://github.com/RedHatInsights/data-pipeline/pull/34 | app/red-hat-konflux | failed
 ccx-insights-content-service | 709 | Update Go dependencies | 2026-02-06T16:54:35Z | https://github.com/RedHatInsights/content-service/pull/709 | app/red-hat-konflux | failed
 insights-results-aggregator | 2374 | chore(deps): update all dependencies | 2026-03-06T13:34:52Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2374 | app/red-hat-konflux | failed
 insights-results-aggregator | 2363 | [DONT MERGE] Use reusable BDD workflow | 2026-02-12T12:31:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2363 | joselsegura | failed
