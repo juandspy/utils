@@ -2,6 +2,9 @@
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-data-pipeline | 37 | chore(deps): update dependency boto3 to >=1.42.68,<1.43.0 | 2026-03-12T21:42:40Z | https://github.com/RedHatInsights/data-pipeline/pull/37 | app/red-hat-konflux | failed
+ccx-insights-content-service | 739 | Update Go dependencies | 2026-03-14T05:39:46Z | https://github.com/RedHatInsights/content-service/pull/739 | app/red-hat-konflux | failed
+insights-results-aggregator | 2385 | chore(deps): update all dependencies | 2026-03-15T01:42:19Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2385 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 622 | chore(deps): update all dependencies | 2026-03-15T01:43:03Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/622 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1683 | [pre-commit] Remove trailing whitespaces | 2026-03-10T10:47:31Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1683 | joselsegura | failed
 ccx-notification-writer | 769 | chore(deps): update all dependencies | 2026-03-11T19:58:24Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/769 | app/red-hat-konflux | failed
 ccx-notification-service | 1071 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.497 to 0.1.498 | 2026-03-12T07:12:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1071 | app/dependabot | failed
