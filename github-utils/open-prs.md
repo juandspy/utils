@@ -1,11 +1,12 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-parquet-factory | 22 | Linters reusable workflow | 2026-03-19T12:31:43Z | https://github.com/RedHatInsights/parquet-factory/pull/22 | joselsegura | failed
+parquet-factory | 25 | chore(deps): update go dependencies | 2026-03-20T17:28:28Z | https://github.com/RedHatInsights/parquet-factory/pull/25 | app/red-hat-konflux | ok
+parquet-factory | 24 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.7 | 2026-03-20T13:29:47Z | https://github.com/RedHatInsights/parquet-factory/pull/24 | app/red-hat-konflux | ok
 ccx-data-pipeline | 37 | chore(deps): update dependency boto3 to >=1.42.72,<1.43.0 | 2026-03-12T21:42:40Z | https://github.com/RedHatInsights/data-pipeline/pull/37 | app/red-hat-konflux | failed
-ccx-insights-content-service | 740 | Update Go dependencies | 2026-03-17T01:39:02Z | https://github.com/RedHatInsights/content-service/pull/740 | app/red-hat-konflux | failed
+ccx-insights-content-service | 745 | Update module go.yaml.in/yaml/v2 to v3 | 2026-03-20T21:34:40Z | https://github.com/RedHatInsights/content-service/pull/745 | app/red-hat-konflux | failed
+insights-results-aggregator | 2390 | chore(deps): update all dependencies | 2026-03-20T17:28:05Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2390 | app/red-hat-konflux | failed
 insights-results-aggregator | 2387 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.7 | 2026-03-18T17:24:34Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2387 | app/red-hat-konflux | failed
-insights-results-aggregator-cleaner | 627 | chore(deps): update all dependencies | 2026-03-19T17:48:59Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/627 | app/red-hat-konflux | ok
 insights-results-aggregator-exporter | 525 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.7 | 2026-03-19T17:44:29Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/525 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1686 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-19T19:50:42Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1686 | app/dependabot | failed
 ccx-smart-proxy | 1685 | Linters reusable workflow | 2026-03-19T11:51:34Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1685 | joselsegura | failed
@@ -20,5 +21,5 @@ ccx-notification-service | 1071 | Bump github.com/openshift-online/ocm-sdk-go fr
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-insights-content-template-renderer | 255 | Linters reusable workflow | 2026-03-18T12:16:54Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/255 | joselsegura | failed
 ccx-insights-content-template-renderer | 251 | Bump fastapi from 0.132.0 to 0.135.1 | 2026-03-03T00:27:00Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/251 | app/dependabot | failed
-obsint-mocks | 162 | [CCXDEV-15353] Linters reusable workflow | 2026-03-19T12:08:49Z | https://github.com/RedHatInsights/obsint-mocks/pull/162 | joselsegura | ok
+ccx-messaging | 659 | [CCXDEV-15098] rules-uploader add python env vars for better debugging | 2026-03-20T16:38:50Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/659 | matysek | ok
 
