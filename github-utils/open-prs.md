@@ -3,7 +3,7 @@ repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 parquet-factory | 25 | chore(deps): update go dependencies | 2026-03-20T17:28:28Z | https://github.com/RedHatInsights/parquet-factory/pull/25 | app/red-hat-konflux | ok
 parquet-factory | 24 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.7 | 2026-03-20T13:29:47Z | https://github.com/RedHatInsights/parquet-factory/pull/24 | app/red-hat-konflux | ok
-ccx-data-pipeline | 37 | chore(deps): update dependency boto3 to >=1.42.72,<1.43.0 | 2026-03-12T21:42:40Z | https://github.com/RedHatInsights/data-pipeline/pull/37 | app/red-hat-konflux | failed
+ccx-data-pipeline | 37 | chore(deps): update dependency boto3 to >=1.42.73,<1.43.0 | 2026-03-12T21:42:40Z | https://github.com/RedHatInsights/data-pipeline/pull/37 | app/red-hat-konflux | failed
 ccx-insights-content-service | 745 | Update module go.yaml.in/yaml/v2 to v3 | 2026-03-20T21:34:40Z | https://github.com/RedHatInsights/content-service/pull/745 | app/red-hat-konflux | failed
 insights-results-aggregator | 2390 | chore(deps): update all dependencies | 2026-03-20T17:28:05Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2390 | app/red-hat-konflux | failed
 insights-results-aggregator | 2387 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.7 | 2026-03-18T17:24:34Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2387 | app/red-hat-konflux | failed
