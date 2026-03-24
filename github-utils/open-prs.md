@@ -1,15 +1,13 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-parquet-factory | 25 | chore(deps): update go dependencies | 2026-03-20T17:28:28Z | https://github.com/RedHatInsights/parquet-factory/pull/25 | app/red-hat-konflux | ok
+parquet-factory | 25 | fix(deps): update go dependencies | 2026-03-20T17:28:28Z | https://github.com/RedHatInsights/parquet-factory/pull/25 | app/red-hat-konflux | ok
 parquet-factory | 24 | chore(deps): update pre-commit hooks | 2026-03-20T13:29:47Z | https://github.com/RedHatInsights/parquet-factory/pull/24 | app/red-hat-konflux | ok
-ccx-data-pipeline | 37 | chore(deps): update dependency boto3 to >=1.42.73,<1.43.0 | 2026-03-12T21:42:40Z | https://github.com/RedHatInsights/data-pipeline/pull/37 | app/red-hat-konflux | failed
+ccx-data-pipeline | 37 | chore(deps): update dependency boto3 to >=1.42.74,<1.43.0 | 2026-03-12T21:42:40Z | https://github.com/RedHatInsights/data-pipeline/pull/37 | app/red-hat-konflux | failed
+ccx-insights-content-service | 747 | Update module go.yaml.in/yaml/v2 to v3 | 2026-03-24T01:36:36Z | https://github.com/RedHatInsights/content-service/pull/747 | app/red-hat-konflux | failed
 ccx-insights-content-service | 746 | Update pre-commit hook golangci/golangci-lint to v2.11.4 | 2026-03-22T21:30:55Z | https://github.com/RedHatInsights/content-service/pull/746 | app/red-hat-konflux | failed
-ccx-insights-content-service | 745 | Update module go.yaml.in/yaml/v2 to v3 | 2026-03-20T21:34:40Z | https://github.com/RedHatInsights/content-service/pull/745 | app/red-hat-konflux | failed
 insights-results-aggregator | 2391 | chore(deps): update pre-commit hook golangci/golangci-lint to v2.11.4 | 2026-03-22T21:31:09Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2391 | app/red-hat-konflux | failed
-insights-results-aggregator | 2390 | chore(deps): update all dependencies | 2026-03-20T17:28:05Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2390 | app/red-hat-konflux | failed
 insights-results-aggregator | 2387 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.7 | 2026-03-18T17:24:34Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2387 | app/red-hat-konflux | failed
-insights-results-aggregator-exporter | 525 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.7 | 2026-03-19T17:44:29Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/525 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1686 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-19T19:50:42Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1686 | app/dependabot | failed
 ccx-smart-proxy | 1685 | Linters reusable workflow | 2026-03-19T11:51:34Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1685 | joselsegura | failed
 ccx-smart-proxy | 1683 | [pre-commit] Remove trailing whitespaces | 2026-03-10T10:47:31Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1683 | joselsegura | failed
@@ -23,6 +21,7 @@ ccx-notification-service | 1076 | Bump github.com/lib/pq from 1.11.2 to 1.12.0 |
 ccx-notification-service | 1074 | Tidy up Makefile and remove unused script | 2026-03-16T12:49:57Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1074 | joselsegura | ok
 ccx-notification-service | 1071 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.497 to 0.1.498 | 2026-03-12T07:12:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1071 | app/dependabot | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+ccx-insights-content-template-renderer | 256 | Bump fastapi from 0.132.0 to 0.135.2 | 2026-03-23T23:13:37Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/256 | app/dependabot | failed
 ccx-insights-content-template-renderer | 255 | Linters reusable workflow | 2026-03-18T12:16:54Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/255 | joselsegura | failed
 ccx-insights-content-template-renderer | 251 | Bump fastapi from 0.132.0 to 0.135.1 | 2026-03-03T00:27:00Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/251 | app/dependabot | failed
 ccx-messaging | 659 | [CCXDEV-15098] rules-uploader add python env vars for better debugging | 2026-03-20T16:38:50Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/659 | matysek | ok
