@@ -1,13 +1,10 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-parquet-factory | 25 | fix(deps): update go dependencies | 2026-03-20T17:28:28Z | https://github.com/RedHatInsights/parquet-factory/pull/25 | app/red-hat-konflux | ok
-parquet-factory | 24 | chore(deps): update pre-commit hooks | 2026-03-20T13:29:47Z | https://github.com/RedHatInsights/parquet-factory/pull/24 | app/red-hat-konflux | ok
-ccx-data-pipeline | 37 | chore(deps): update dependency boto3 to >=1.42.74,<1.43.0 | 2026-03-12T21:42:40Z | https://github.com/RedHatInsights/data-pipeline/pull/37 | app/red-hat-konflux | failed
-ccx-insights-content-service | 747 | Update module go.yaml.in/yaml/v2 to v3 | 2026-03-24T01:36:36Z | https://github.com/RedHatInsights/content-service/pull/747 | app/red-hat-konflux | failed
+ccx-data-pipeline | 43 | chore(deps): update dependency boto3 to >=1.42.75,<1.43.0 | 2026-03-25T01:30:42Z | https://github.com/RedHatInsights/data-pipeline/pull/43 | app/red-hat-konflux | failed
+ccx-insights-content-service | 747 | Update Go dependencies | 2026-03-24T01:36:36Z | https://github.com/RedHatInsights/content-service/pull/747 | app/red-hat-konflux | failed
 ccx-insights-content-service | 746 | Update pre-commit hook golangci/golangci-lint to v2.11.4 | 2026-03-22T21:30:55Z | https://github.com/RedHatInsights/content-service/pull/746 | app/red-hat-konflux | failed
-insights-results-aggregator | 2391 | chore(deps): update pre-commit hook golangci/golangci-lint to v2.11.4 | 2026-03-22T21:31:09Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2391 | app/red-hat-konflux | failed
-insights-results-aggregator | 2387 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.7 | 2026-03-18T17:24:34Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2387 | app/red-hat-konflux | failed
+insights-results-aggregator | 2392 | chore(deps): update all dependencies | 2026-03-24T18:51:22Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2392 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1686 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-19T19:50:42Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1686 | app/dependabot | failed
 ccx-smart-proxy | 1685 | Linters reusable workflow | 2026-03-19T11:51:34Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1685 | joselsegura | failed
 ccx-smart-proxy | 1683 | [pre-commit] Remove trailing whitespaces | 2026-03-10T10:47:31Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1683 | joselsegura | failed
