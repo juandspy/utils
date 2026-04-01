@@ -5,7 +5,9 @@ ccx-upgrades-inference | 36 | [Automated] Update pre-commit hooks | 2026-03-30T0
 ccx-upgrades-inference | 35 | Update pre-commit hook astral-sh/ruff-pre-commit to v0.15.8 | 2026-03-27T01:29:58Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/35 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 49 | chore(deps): update dependency requests to v2.33.1 | 2026-03-31T02:24:14Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/49 | app/red-hat-konflux | ok
 parquet-factory | 30 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.8 | 2026-03-27T01:29:28Z | https://github.com/RedHatInsights/parquet-factory/pull/30 | app/red-hat-konflux | failed
-ccx-data-pipeline | 45 | chore(deps): update dependency boto3 to >=1.42.79,<1.43.0 | 2026-03-25T21:33:41Z | https://github.com/RedHatInsights/data-pipeline/pull/45 | app/red-hat-konflux | failed
+ccx-data-pipeline | 45 | chore(deps): update dependency boto3 to >=1.42.80,<1.43.0 | 2026-03-25T21:33:41Z | https://github.com/RedHatInsights/data-pipeline/pull/45 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 643 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2026-03-31T17:34:24Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/643 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1694 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.498 to 0.1.499 | 2026-03-31T17:52:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1694 | app/dependabot | failed
 ccx-smart-proxy | 1685 | Linters reusable workflow | 2026-03-19T11:51:34Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1685 | joselsegura | failed
 ccx-notification-service | 1080 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-27T15:50:51Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1080 | app/dependabot | failed
 ccx-notification-service | 1071 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.497 to 0.1.498 | 2026-03-12T07:12:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1071 | app/dependabot | ok
