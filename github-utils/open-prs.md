@@ -5,7 +5,7 @@ ccx-upgrades-inference | 37 | Update Python dependencies | 2026-04-01T21:33:05Z 
 ccx-upgrades-inference | 36 | [Automated] Update pre-commit hooks | 2026-03-30T08:29:08Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/36 | app/github-actions | ok
 ccx-upgrades-data-eng | 50 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-04-02T21:55:53Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/50 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 49 | chore(deps): update python dependencies | 2026-03-31T02:24:14Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/49 | app/red-hat-konflux | failed
-parquet-factory | 37 | chore(deps): update go dependencies | 2026-04-03T21:47:08Z | https://github.com/RedHatInsights/parquet-factory/pull/37 | app/red-hat-konflux | failed
+parquet-factory | 37 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2026-04-03T21:47:08Z | https://github.com/RedHatInsights/parquet-factory/pull/37 | app/red-hat-konflux | failed
 parquet-factory | 30 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-03-27T01:29:28Z | https://github.com/RedHatInsights/parquet-factory/pull/30 | app/red-hat-konflux | failed
 ccx-data-pipeline | 48 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-04-02T21:53:14Z | https://github.com/RedHatInsights/data-pipeline/pull/48 | app/red-hat-konflux | failed
 ccx-data-pipeline | 45 | chore(deps): update dependency boto3 to >=1.42.83,<1.43.0 | 2026-03-25T21:33:41Z | https://github.com/RedHatInsights/data-pipeline/pull/45 | app/red-hat-konflux | failed
@@ -21,7 +21,7 @@ ccx-notification-writer | 788 | chore(deps): update all dependencies | 2026-04-0
 ccx-notification-writer | 787 | fix(deps): update module github.com/lib/pq to v1.12.3 | 2026-04-03T21:31:48Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/787 | app/red-hat-konflux | failed
 ccx-notification-writer | 784 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-04-02T21:53:30Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/784 | app/red-hat-konflux | failed
 ccx-notification-service | 1080 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-27T15:50:51Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1080 | app/dependabot | failed
-io-gathering-service | 602 | chore(deps): update all dependencies | 2026-04-03T21:47:36Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/602 | app/red-hat-konflux | failed
+io-gathering-service | 602 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2026-04-03T21:47:36Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/602 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-insights-content-template-renderer | 260 | Bump requests from 2.32.5 to 2.33.1 | 2026-03-30T23:23:35Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/260 | app/dependabot | ok
 ccx-insights-content-template-renderer | 259 | Bump requests from 2.32.5 to 2.33.0 | 2026-03-26T16:19:04Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/259 | app/dependabot | ok
