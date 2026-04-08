@@ -1,14 +1,15 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-upgrades-inference | 38 | Update renovate.json to test automerge capabilities | 2026-04-07T09:04:31Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/38 | joselsegura | failed
 ccx-upgrades-inference | 37 | Update Python dependencies | 2026-04-01T21:33:05Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/37 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 51 | [Automated] Update pre-commit hooks | 2026-04-06T08:28:38Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/51 | app/github-actions | failed
 ccx-upgrades-data-eng | 50 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-04-02T21:55:53Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/50 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 49 | chore(deps): update python dependencies | 2026-03-31T02:24:14Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/49 | app/red-hat-konflux | failed
-parquet-factory | 37 | chore(deps): update go dependencies | 2026-04-03T21:47:08Z | https://github.com/RedHatInsights/parquet-factory/pull/37 | app/red-hat-konflux | failed
+parquet-factory | 37 | fix(deps): update go dependencies | 2026-04-03T21:47:08Z | https://github.com/RedHatInsights/parquet-factory/pull/37 | app/red-hat-konflux | failed
 parquet-factory | 30 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-03-27T01:29:28Z | https://github.com/RedHatInsights/parquet-factory/pull/30 | app/red-hat-konflux | failed
 ccx-data-pipeline | 48 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-04-02T21:53:14Z | https://github.com/RedHatInsights/data-pipeline/pull/48 | app/red-hat-konflux | failed
-ccx-data-pipeline | 45 | chore(deps): update dependency boto3 to >=1.42.84,<1.43.0 | 2026-03-25T21:33:41Z | https://github.com/RedHatInsights/data-pipeline/pull/45 | app/red-hat-konflux | failed
+ccx-data-pipeline | 45 | chore(deps): update dependency boto3 to >=1.42.85,<1.43.0 | 2026-03-25T21:33:41Z | https://github.com/RedHatInsights/data-pipeline/pull/45 | app/red-hat-konflux | failed
 ccx-insights-content-service | 763 | Update Go dependencies | 2026-04-03T21:47:08Z | https://github.com/RedHatInsights/content-service/pull/763 | app/red-hat-konflux | failed
 insights-results-aggregator | 2410 | Bump github.com/lib/pq from 1.12.2 to 1.12.3 | 2026-04-06T08:04:00Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2410 | app/dependabot | failed
 insights-results-aggregator | 2409 | fix(deps): update go dependencies | 2026-04-03T21:47:07Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2409 | app/red-hat-konflux | failed
@@ -17,12 +18,16 @@ insights-results-aggregator-cleaner | 649 | Bump github.com/lib/pq from 1.12.2 t
 insights-results-aggregator-cleaner | 648 | fix(deps): update go dependencies | 2026-04-03T05:31:48Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/648 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 539 | Bump github.com/lib/pq from 1.12.2 to 1.12.3 | 2026-04-03T23:12:58Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/539 | app/dependabot | failed
 insights-results-aggregator-exporter | 538 | fix(deps): update module github.com/lib/pq to v1.12.3 | 2026-04-03T21:30:43Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/538 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1696 | Bump github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream from 1.7.4 to 1.7.8 | 2026-04-08T02:15:22Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1696 | app/dependabot | failed
+ccx-smart-proxy | 1695 | Bump github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs from 1.63.1 to 1.65.0 | 2026-04-08T01:40:17Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1695 | app/dependabot | failed
 ccx-smart-proxy | 1694 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.498 to 0.1.499 | 2026-03-31T17:52:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1694 | app/dependabot | failed
 ccx-smart-proxy | 1685 | Linters reusable workflow | 2026-03-19T11:51:34Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1685 | joselsegura | failed
 ccx-notification-writer | 789 | Bump github.com/lib/pq from 1.12.2 to 1.12.3 | 2026-04-06T14:04:11Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/789 | app/dependabot | failed
 ccx-notification-writer | 788 | chore(deps): update all dependencies | 2026-04-03T21:39:49Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/788 | app/red-hat-konflux | failed
 ccx-notification-writer | 787 | fix(deps): update module github.com/lib/pq to v1.12.3 | 2026-04-03T21:31:48Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/787 | app/red-hat-konflux | failed
 ccx-notification-writer | 784 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-04-02T21:53:30Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/784 | app/red-hat-konflux | failed
+ccx-notification-service | 1087 | Bump github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream from 1.7.2 to 1.7.8 | 2026-04-08T02:14:54Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1087 | app/dependabot | failed
+ccx-notification-service | 1086 | Bump github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs from 1.58.5 to 1.65.0 | 2026-04-08T01:51:20Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1086 | app/dependabot | failed
 ccx-notification-service | 1085 | Bump github.com/lib/pq from 1.12.2 to 1.12.3 | 2026-04-06T07:19:37Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1085 | app/dependabot | failed
 ccx-notification-service | 1080 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-27T15:50:51Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1080 | app/dependabot | failed
 io-gathering-service | 602 | chore(deps): update all dependencies | 2026-04-03T21:47:36Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/602 | app/red-hat-konflux | failed
