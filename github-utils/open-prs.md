@@ -1,15 +1,14 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 38 | Update renovate.json to test automerge capabilities | 2026-04-07T09:04:31Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/38 | joselsegura | failed
-ccx-upgrades-inference | 37 | Update Python dependencies | 2026-04-01T21:33:05Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/37 | app/red-hat-konflux | failed
+ccx-upgrades-inference | 40 | Update linter | 2026-04-08T12:01:36Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/40 | joselsegura | failed
 ccx-upgrades-data-eng | 51 | [Automated] Update pre-commit hooks | 2026-04-06T08:28:38Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/51 | app/github-actions | failed
 ccx-upgrades-data-eng | 50 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-04-02T21:55:53Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/50 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 49 | chore(deps): update python dependencies | 2026-03-31T02:24:14Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/49 | app/red-hat-konflux | failed
 parquet-factory | 37 | fix(deps): update go dependencies | 2026-04-03T21:47:08Z | https://github.com/RedHatInsights/parquet-factory/pull/37 | app/red-hat-konflux | failed
 parquet-factory | 30 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-03-27T01:29:28Z | https://github.com/RedHatInsights/parquet-factory/pull/30 | app/red-hat-konflux | failed
 ccx-data-pipeline | 48 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.9 | 2026-04-02T21:53:14Z | https://github.com/RedHatInsights/data-pipeline/pull/48 | app/red-hat-konflux | failed
-ccx-data-pipeline | 45 | chore(deps): update dependency boto3 to >=1.42.85,<1.43.0 | 2026-03-25T21:33:41Z | https://github.com/RedHatInsights/data-pipeline/pull/45 | app/red-hat-konflux | failed
+ccx-data-pipeline | 45 | chore(deps): update dependency boto3 to >=1.42.86,<1.43.0 | 2026-03-25T21:33:41Z | https://github.com/RedHatInsights/data-pipeline/pull/45 | app/red-hat-konflux | failed
 ccx-insights-content-service | 763 | Update Go dependencies | 2026-04-03T21:47:08Z | https://github.com/RedHatInsights/content-service/pull/763 | app/red-hat-konflux | failed
 insights-results-aggregator | 2410 | Bump github.com/lib/pq from 1.12.2 to 1.12.3 | 2026-04-06T08:04:00Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2410 | app/dependabot | failed
 insights-results-aggregator | 2409 | fix(deps): update go dependencies | 2026-04-03T21:47:07Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2409 | app/red-hat-konflux | failed
