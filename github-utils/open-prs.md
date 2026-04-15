@@ -7,13 +7,14 @@ ccx-upgrades-inference | 40 | Update linter | 2026-04-08T12:01:36Z | https://git
 ccx-upgrades-data-eng | 53 | chore(deps): update pre-commit hooks | 2026-04-09T13:56:55Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/53 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 51 | [Automated] Update pre-commit hooks | 2026-04-06T08:28:38Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/51 | app/github-actions | ok
 parquet-factory | 42 | Add common linter workflow | 2026-04-10T11:49:52Z | https://github.com/RedHatInsights/parquet-factory/pull/42 | joselsegura | ok
+ccx-data-pipeline | 54 | Test PR auto-merge flag | 2026-04-14T14:00:06Z | https://github.com/RedHatInsights/data-pipeline/pull/54 | app/obsint-processing-app | ok
 ccx-data-pipeline | 51 | chore(deps): update dependency boto3 to >=1.42.89,<1.43.0 | 2026-04-10T01:37:11Z | https://github.com/RedHatInsights/data-pipeline/pull/51 | app/red-hat-konflux | failed
-ccx-insights-content-service | 773 | Update pre-commit hook renovatebot/pre-commit-hooks to v43.113.0 | 2026-04-13T09:31:25Z | https://github.com/RedHatInsights/content-service/pull/773 | app/red-hat-konflux | failed
+ccx-insights-content-service | 775 | [CXDEV-16261] Switch to shared Codecov OIDC workflow | 2026-04-14T18:10:42Z | https://github.com/RedHatInsights/content-service/pull/775 | lenasolarova | ok
+ccx-insights-content-service | 773 | Update pre-commit hook renovatebot/pre-commit-hooks to v43.116.1 | 2026-04-13T09:31:25Z | https://github.com/RedHatInsights/content-service/pull/773 | app/red-hat-konflux | failed
 ccx-notification-writer | 791 | Update pre-commit configuration | 2026-04-09T15:50:33Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/791 | joselsegura | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-insights-content-template-renderer | 273 | Bump uvicorn from 0.42.0 to 0.44.0 | 2026-04-13T23:24:04Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/273 | app/dependabot | failed
 ccx-insights-content-template-renderer | 272 | Bump pytest from 9.0.2 to 9.0.3 | 2026-04-13T23:23:57Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/272 | app/dependabot | failed
-ccx-insights-content-template-renderer | 271 | Update pre-commit hook renovatebot/pre-commit-hooks to v43.113.0 | 2026-04-13T19:56:37Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/271 | app/red-hat-konflux | ok
 ccx-insights-content-template-renderer | 264 | Update Python dependencies | 2026-04-10T13:55:32Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/264 | app/red-hat-konflux | ok
 ccx-messaging | 683 | build(deps): bump aiobotocore from 3.3.0 to 3.4.0 | 2026-04-13T07:41:12Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/683 | app/dependabot | failed
 ccx-messaging | 682 | build(deps): update boto3 requirement from <1.42.84,>=1.34.1 to >=1.34.1,<1.42.89 | 2026-04-13T07:41:07Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/682 | app/dependabot | failed
