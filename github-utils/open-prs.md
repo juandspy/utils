@@ -9,11 +9,14 @@ ccx-data-pipeline | 65 | chore(deps): update dependency boto3 to >=1.42.96,<1.43
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
 ccx-insights-content-service | 816 | Update Go dependencies | 2026-04-25T01:47:25Z | https://github.com/RedHatInsights/content-service/pull/816 | app/red-hat-konflux | failed
 insights-results-aggregator | 2463 | chore(deps): update go dependencies | 2026-04-24T13:53:52Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2463 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 710 | chore(deps): update go dependencies | 2026-04-25T10:39:56Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/710 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1718 | Update Go dependencies | 2026-04-24T17:47:19Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1718 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1717 | Update Pre-commit hooks | 2026-04-24T17:46:09Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1717 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1711 | Bump github.com/RedHatInsights/insights-operator-utils from 1.27.0 to 1.28.0 | 2026-04-23T17:53:02Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1711 | app/dependabot | failed
 ccx-smart-proxy | 1707 | Bump github.com/rs/zerolog from 1.35.0 to 1.35.1 | 2026-04-21T17:52:46Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1707 | app/dependabot | ok
+ccx-notification-writer | 812 | chore(deps): update go dependencies | 2026-04-25T10:40:09Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/812 | app/red-hat-konflux | failed
 ccx-notification-writer | 791 | Update pre-commit configuration | 2026-04-09T15:50:33Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/791 | joselsegura | failed
+ccx-notification-service | 1126 | fix(deps): update go dependencies | 2026-04-26T05:53:48Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1126 | app/red-hat-konflux | ok
 ccx-notification-service | 1114 | Bump github.com/RedHatInsights/insights-operator-utils from 1.27.0 to 1.28.0 | 2026-04-24T07:14:16Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1114 | app/dependabot | ok
 ccx-notification-service | 1113 | Bump github.com/IBM/sarama from 1.47.0 to 1.48.0 | 2026-04-24T07:14:08Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1113 | app/dependabot | ok
 ccx-notification-service | 1100 | Bump github.com/rs/zerolog from 1.35.0 to 1.35.1 | 2026-04-21T07:13:41Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1100 | app/dependabot | failed
