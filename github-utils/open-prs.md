@@ -1,12 +1,17 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 71 | chore(deps): update pre-commit hook redhatinsights/processing-tools to v0.4.1 | 2026-04-28T13:50:31Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/71 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 76 | [Automated] Update pre-commit hooks | 2026-04-27T08:47:21Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/76 | app/github-actions | ok
+parquet-factory | 71 | chore(deps): update go dependencies | 2026-05-01T21:52:28Z | https://github.com/RedHatInsights/parquet-factory/pull/71 | app/red-hat-konflux | failed
+parquet-factory | 70 | chore(deps): update pre-commit hook golangci/golangci-lint to v2.12.1 | 2026-05-01T17:48:02Z | https://github.com/RedHatInsights/parquet-factory/pull/70 | app/red-hat-konflux | failed
 parquet-factory | 42 | Add common linter workflow | 2026-04-10T11:49:52Z | https://github.com/RedHatInsights/parquet-factory/pull/42 | joselsegura | ok
-ccx-data-pipeline | 69 | chore(deps): update dependency boto3 to >=1.43.1,<1.43.2 | 2026-04-30T13:49:48Z | https://github.com/RedHatInsights/data-pipeline/pull/69 | app/red-hat-konflux | failed
+ccx-data-pipeline | 69 | chore(deps): update dependency boto3 to >=1.43.2,<1.43.3 | 2026-04-30T13:49:48Z | https://github.com/RedHatInsights/data-pipeline/pull/69 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
+ccx-insights-content-service | 826 | Update pre-commit hook golangci/golangci-lint to v2.12.1 | 2026-05-01T17:47:47Z | https://github.com/RedHatInsights/content-service/pull/826 | app/red-hat-konflux | failed
+insights-results-aggregator | 2474 | chore(deps): update pre-commit hook golangci/golangci-lint to v2.12.1 | 2026-05-01T17:47:56Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2474 | app/red-hat-konflux | failed
 insights-results-aggregator | 2473 | chore(deps): update go dependencies | 2026-04-30T09:57:00Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2473 | app/red-hat-konflux | failed
+insights-results-aggregator-exporter | 610 | chore(deps): update pre-commit hook golangci/golangci-lint to v2.12.1 | 2026-05-01T17:47:53Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/610 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1725 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.499 to 0.1.500 | 2026-05-01T21:18:59Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1725 | app/dependabot | ok
 ccx-smart-proxy | 1724 | Bump github.com/redis/go-redis/v9 from 9.18.0 to 9.19.0 | 2026-04-28T17:52:53Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1724 | app/dependabot | ok
 ccx-smart-proxy | 1722 | Update Go dependencies | 2026-04-27T21:51:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1722 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1717 | Update Pre-commit hooks | 2026-04-24T17:46:09Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1717 | app/red-hat-konflux | failed
