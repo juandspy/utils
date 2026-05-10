@@ -3,7 +3,7 @@ repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-upgrades-inference | 80 | chore(deps): update pre-commit hook redhatinsights/processing-tools to v0.4.4 | 2026-05-08T16:40:41Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/80 | app/red-hat-konflux | failed
 ccx-upgrades-inference | 78 | chore(deps): update github actions | 2026-05-08T09:49:25Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/78 | app/red-hat-konflux | failed
-ccx-upgrades-data-eng | 102 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:49Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/102 | app/red-hat-konflux | ok
+ccx-upgrades-data-eng | 104 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-10T05:46:05Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/104 | app/red-hat-konflux | ok
 ccx-upgrades-data-eng | 96 | chore(deps): update ghcr.io/navikt/mock-oauth2-server docker tag to v3.0.3 | 2026-05-06T23:41:48Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/96 | app/red-hat-konflux | ok
 parquet-factory | 94 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:06:03Z | https://github.com/RedHatInsights/parquet-factory/pull/94 | app/red-hat-konflux | ok
 parquet-factory | 42 | Add common linter workflow | 2026-04-10T11:49:52Z | https://github.com/RedHatInsights/parquet-factory/pull/42 | joselsegura | ok
@@ -11,7 +11,7 @@ ccx-data-pipeline | 80 | chore(deps): update redhatinsights/processing-tools act
 ccx-data-pipeline | 69 | chore(deps): update dependency boto3 to >=1.43.6,<1.43.7 | 2026-04-30T13:49:48Z | https://github.com/RedHatInsights/data-pipeline/pull/69 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
 ccx-insights-content-service | 849 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:11Z | https://github.com/RedHatInsights/content-service/pull/849 | app/red-hat-konflux | ok
-insights-results-aggregator | 2486 | 🔄 synced file(s) with RedHatInsights/processing-tools | 2026-05-08T12:12:30Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2486 | app/obsint-processing-app | failed
+insights-results-aggregator | 2489 | chore(deps): update go dependencies | 2026-05-09T06:10:52Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2489 | app/red-hat-konflux | failed
 insights-results-aggregator | 2485 | chore(deps): update github actions | 2026-05-08T09:49:09Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2485 | app/red-hat-konflux | failed
 insights-results-aggregator | 2476 | [HOLD] Use reusable workflow | 2026-05-04T09:44:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2476 | joselsegura | failed
 insights-results-aggregator-cleaner | 742 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:53Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/742 | app/red-hat-konflux | ok
@@ -19,7 +19,7 @@ insights-results-aggregator-exporter | 630 | chore(deps): update redhatinsights/
 ccx-smart-proxy | 1746 | Update GitHub Actions | 2026-05-08T09:50:50Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1746 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1745 | Update Go dependencies | 2026-05-07T10:18:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1745 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1744 | Update Pre-commit hooks | 2026-05-07T10:16:18Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1744 | app/red-hat-konflux | failed
-ccx-notification-writer | 840 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:50Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/840 | app/red-hat-konflux | ok
+ccx-notification-writer | 842 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-10T05:45:09Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/842 | app/red-hat-konflux | ok
 ccx-notification-writer | 791 | Update pre-commit configuration | 2026-04-09T15:50:33Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/791 | joselsegura | failed
 ccx-notification-service | 1181 | chore(deps): update github actions | 2026-05-08T09:50:09Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1181 | app/red-hat-konflux | failed
 ccx-notification-service | 1179 | fix(deps): update go dependencies | 2026-05-08T02:00:26Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1179 | app/red-hat-konflux | ok
