@@ -11,7 +11,7 @@ ccx-data-pipeline | 80 | chore(deps): update redhatinsights/processing-tools act
 ccx-data-pipeline | 69 | chore(deps): update dependency boto3 to >=1.43.6,<1.43.7 | 2026-04-30T13:49:48Z | https://github.com/RedHatInsights/data-pipeline/pull/69 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
 ccx-insights-content-service | 849 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:11Z | https://github.com/RedHatInsights/content-service/pull/849 | app/red-hat-konflux | ok
-insights-results-aggregator | 2489 | chore(deps): update go dependencies | 2026-05-09T06:10:52Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2489 | app/red-hat-konflux | failed
+insights-results-aggregator | 2490 | chore(deps): update go dependencies | 2026-05-10T17:53:11Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2490 | app/red-hat-konflux | failed
 insights-results-aggregator | 2485 | chore(deps): update github actions | 2026-05-08T09:49:09Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2485 | app/red-hat-konflux | failed
 insights-results-aggregator | 2476 | [HOLD] Use reusable workflow | 2026-05-04T09:44:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2476 | joselsegura | failed
 insights-results-aggregator-cleaner | 742 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:53Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/742 | app/red-hat-konflux | ok
