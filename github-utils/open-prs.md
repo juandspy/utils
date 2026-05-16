@@ -1,11 +1,8 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 85 | Remove pre-commit auto-update job | 2026-05-14T16:33:03Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/85 | joselsegura | ok
 ccx-upgrades-inference | 81 | [Automated] Update pre-commit hooks | 2026-05-11T09:04:09Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/81 | app/github-actions | ok
-ccx-upgrades-data-eng | 110 | Remove pre-commit auto-update job | 2026-05-14T16:31:00Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/110 | joselsegura | ok
-ccx-data-pipeline | 90 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.13 | 2026-05-14T17:56:17Z | https://github.com/RedHatInsights/data-pipeline/pull/90 | app/red-hat-konflux | failed
-ccx-data-pipeline | 88 | chore(deps): update dependency boto3 to >=1.43.8,<1.43.9 | 2026-05-14T02:02:25Z | https://github.com/RedHatInsights/data-pipeline/pull/88 | app/red-hat-konflux | failed
+ccx-data-pipeline | 88 | chore(deps): update dependency boto3 to >=1.43.9,<1.43.10 | 2026-05-14T02:02:25Z | https://github.com/RedHatInsights/data-pipeline/pull/88 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
 ccx-insights-content-service | 855 | chore(deps): update go dependencies | 2026-05-13T01:50:53Z | https://github.com/RedHatInsights/content-service/pull/855 | app/red-hat-konflux | failed
 insights-results-aggregator | 2494 | fix(deps): update go dependencies | 2026-05-12T20:33:38Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2494 | app/red-hat-konflux | failed
@@ -18,8 +15,6 @@ ccx-notification-writer | 845 | fix(deps): update go dependencies | 2026-05-13T0
 ccx-notification-writer | 791 | Update pre-commit configuration | 2026-04-09T15:50:33Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/791 | joselsegura | failed
 ccx-notification-service | 1181 | chore(deps): update github actions | 2026-05-08T09:50:09Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1181 | app/red-hat-konflux | failed
 ccx-notification-service | 1179 | fix(deps): update go dependencies | 2026-05-08T02:00:26Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1179 | app/red-hat-konflux | ok
-io-gathering-service | 690 | Update Go version used in the workflow | 2026-05-14T16:48:47Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/690 | joselsegura | ok
-io-gathering-service | 678 | chore(deps): update github actions to v6 | 2026-05-08T09:49:09Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/678 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-messaging | 748 | chore(deps): update python dependencies | 2026-05-12T20:28:47Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/748 | app/red-hat-konflux | failed
 
