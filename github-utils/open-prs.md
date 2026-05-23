@@ -2,8 +2,7 @@
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-upgrades-inference | 90 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.14 | 2026-05-21T17:56:29Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/90 | app/red-hat-konflux | failed
-ccx-upgrades-data-eng | 119 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.14 | 2026-05-21T17:56:58Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/119 | app/red-hat-konflux | failed
-ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.13,<1.43.14 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
+ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.14,<1.43.15 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
 ccx-insights-content-service | 867 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.14 | 2026-05-21T17:56:03Z | https://github.com/RedHatInsights/content-service/pull/867 | app/red-hat-konflux | failed
 ccx-insights-content-service | 865 | chore(deps): update go dependencies | 2026-05-19T14:13:01Z | https://github.com/RedHatInsights/content-service/pull/865 | app/red-hat-konflux | failed
