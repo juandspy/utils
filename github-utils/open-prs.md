@@ -1,7 +1,7 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.14,<1.43.15 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
+ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.15,<1.43.16 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
 insights-results-aggregator | 2505 | chore(deps): lock file maintenance ruby dependencies | 2026-05-26T01:38:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2505 | app/red-hat-konflux | failed
 insights-results-aggregator | 2504 | chore(deps): update go dependencies | 2026-05-21T18:00:17Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2504 | app/red-hat-konflux | failed
