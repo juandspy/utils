@@ -1,18 +1,12 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 95 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v43.202.1 | 2026-05-29T06:11:51Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/95 | app/red-hat-konflux | failed
-ccx-upgrades-data-eng | 125 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v43.202.1 | 2026-05-29T01:31:51Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/125 | app/red-hat-konflux | failed
-parquet-factory | 114 | chore(deps): update go dependencies | 2026-05-29T01:34:44Z | https://github.com/RedHatInsights/parquet-factory/pull/114 | app/red-hat-konflux | failed
-ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.17,<1.43.18 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
+ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.18,<1.43.19 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
-ccx-insights-content-service | 871 | chore(deps): update go dependencies | 2026-05-29T01:44:42Z | https://github.com/RedHatInsights/content-service/pull/871 | app/red-hat-konflux | failed
-ccx-insights-content-service | 869 | chore(deps): update pre-commit hooks | 2026-05-28T17:59:20Z | https://github.com/RedHatInsights/content-service/pull/869 | app/red-hat-konflux | failed
 insights-results-aggregator | 2505 | chore(deps): lock file maintenance ruby dependencies | 2026-05-26T01:38:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2505 | app/red-hat-konflux | failed
 insights-results-aggregator | 2504 | fix(deps): update go dependencies | 2026-05-21T18:00:17Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2504 | app/red-hat-konflux | failed
 insights-results-aggregator | 2503 | chore(deps): update pre-commit hooks | 2026-05-21T17:56:13Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2503 | app/red-hat-konflux | failed
 insights-results-aggregator | 2476 | [HOLD] Use reusable workflow | 2026-05-04T09:44:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2476 | joselsegura | failed
-insights-results-aggregator-cleaner | 761 | chore(deps): update go dependencies | 2026-05-29T01:27:19Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/761 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 648 | fix(deps): update go dependencies | 2026-05-28T04:57:28Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/648 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1768 | Lock file maintenance Ruby dependencies | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1767 | Update GitHub Actions | 2026-05-21T17:56:38Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1767 | app/red-hat-konflux | failed
@@ -20,9 +14,7 @@ ccx-smart-proxy | 1765 | 🔄 synced file(s) with RedHatInsights/processing-tool
 ccx-smart-proxy | 1764 | Update Go dependencies | 2026-05-19T10:26:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1764 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1761 | Update Pre-commit hooks | 2026-05-19T01:41:41Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1761 | app/red-hat-konflux | ok
 ccx-notification-service | 1206 | fix(deps): update go dependencies | 2026-05-21T10:07:37Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1206 | app/red-hat-konflux | ok
-io-gathering-service | 706 | chore(deps): update go dependencies | 2026-05-29T02:04:13Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/706 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
-ccx-insights-content-template-renderer | 349 | Update dependency boto3 to v1.43.17 | 2026-05-29T01:43:52Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/349 | app/red-hat-konflux | failed
 ccx-messaging | 757 | [CCXDEV-16284] Implement memleak workaround from insights-core | 2026-05-20T14:00:41Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/757 | matysek | ok
 ccx-messaging | 753 | chore(deps): update python dependencies | 2026-05-18T10:23:20Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/753 | app/red-hat-konflux | failed
 
