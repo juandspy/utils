@@ -1,9 +1,9 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.22,<1.43.23 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
+ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.23,<1.43.24 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
-insights-results-aggregator | 2514 | chore(deps): update module go.mongodb.org/mongo-driver to v2 | 2026-06-04T01:32:47Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2514 | app/red-hat-konflux | failed
+insights-results-aggregator | 2520 | chore(deps): update module go.mongodb.org/mongo-driver to v2 | 2026-06-05T06:05:42Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2520 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1769 | Update GitHub Actions | 2026-06-01T13:36:53Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1769 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1768 | Lock file maintenance Ruby dependencies | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1765 | 🔄 synced file(s) with RedHatInsights/processing-tools | 2026-05-19T13:39:44Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1765 | app/obsint-processing-app | failed
