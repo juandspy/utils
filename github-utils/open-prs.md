@@ -1,9 +1,9 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-data-pipeline | 103 | [CCXDEV-16284] Update the ccx-messaging dependency - memleak fix part2 - insights-core workaround | 2026-06-08T14:57:30Z | https://github.com/RedHatInsights/data-pipeline/pull/103 | matysek | failed
 ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.23,<1.43.24 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
+insights-results-aggregator | 2524 | [CCXDEV-15434] Old tutorial entries causing a log error report | 2026-06-10T15:14:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2524 | joselsegura | failed
 insights-results-aggregator | 2520 | chore(deps): update module go.mongodb.org/mongo-driver to v2 | 2026-06-05T06:05:42Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2520 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1769 | Update GitHub Actions | 2026-06-01T13:36:53Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1769 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1768 | Lock file maintenance Ruby dependencies | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
