@@ -1,11 +1,15 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.23,<1.43.24 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
+ccx-upgrades-inference | 111 | chore(deps): update pre-commit hooks | 2026-06-15T17:31:00Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/111 | app/red-hat-konflux | failed
+ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.29,<1.43.30 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
+ccx-smart-proxy | 1770 | Update Pre-commit hooks | 2026-06-15T17:44:37Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1770 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1769 | Update GitHub Actions | 2026-06-01T13:36:53Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1769 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1768 | Lock file maintenance Ruby dependencies | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1764 | Update Go dependencies | 2026-05-19T10:26:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1764 | app/red-hat-konflux | ok
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+insights-behavioral-spec | 799 | Update pre-commit hook astral-sh/ruff-pre-commit to v0.15.17 | 2026-06-15T17:40:35Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/799 | app/red-hat-konflux | failed
+obsint-mocks | 286 | chore(deps): update module github.com/golang-jwt/jwt/v4 to v5 | 2026-06-16T02:33:35Z | https://github.com/RedHatInsights/obsint-mocks/pull/286 | app/red-hat-konflux | ok
 ccx-messaging | 753 | chore(deps): update python dependencies | 2026-05-18T10:23:20Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/753 | app/red-hat-konflux | failed
 
