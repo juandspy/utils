@@ -1,9 +1,6 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 122 | chore(deps): update dependency fastapi to v0.138.0 | 2026-06-23T01:37:11Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/122 | app/red-hat-konflux | failed
-ccx-upgrades-data-eng | 154 | chore(deps): update dependency fastapi to v0.138.0 | 2026-06-23T02:21:29Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/154 | app/red-hat-konflux | failed
-parquet-factory | 159 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.18 | 2026-06-21T20:47:55Z | https://github.com/RedHatInsights/parquet-factory/pull/159 | app/red-hat-konflux | failed
 ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.34,<1.43.35 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
 ccx-smart-proxy | 1771 | Update GitHub Actions | 2026-06-17T09:47:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1771 | app/red-hat-konflux | failed
