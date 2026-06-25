@@ -3,6 +3,7 @@ repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-data-pipeline | 94 | chore(deps): update dependency boto3 to >=1.43.34,<1.43.35 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
+insights-results-aggregator | 2543 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v43.234.0 | 2026-06-24T10:28:47Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2543 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1771 | Update GitHub Actions | 2026-06-17T09:47:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1771 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1770 | Update Pre-commit hooks | 2026-06-15T17:44:37Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1770 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1768 | Lock file maintenance Ruby dependencies | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
