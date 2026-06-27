@@ -1,13 +1,11 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-data-eng | 160 | chore(deps): update pre-commit hooks to v43.236.0 | 2026-06-26T05:23:33Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/160 | app/red-hat-konflux | failed
 ccx-data-pipeline | 94 | Update Python dependencies to >=1.43.36,<1.43.37 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
-ccx-insights-content-service | 923 | chore(deps): update pre-commit hooks to v43.236.0 | 2026-06-26T05:41:00Z | https://github.com/RedHatInsights/content-service/pull/923 | app/red-hat-konflux | failed
-insights-results-aggregator | 2549 | chore(deps): update go dependencies to v2 | 2026-06-26T01:23:48Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2549 | app/red-hat-konflux | failed
+ccx-insights-content-service | 927 | chore(deps): update go dependencies to v2.4.2 | 2026-06-27T04:44:54Z | https://github.com/RedHatInsights/content-service/pull/927 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1773 | Update Pre-commit hooks | 2026-06-26T17:20:57Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1773 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1771 | Update GitHub Actions | 2026-06-17T09:47:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1771 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1770 | Update Pre-commit hooks | 2026-06-15T17:44:37Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1770 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1768 | Update Ruby dependencies to "~> 0.5.0" | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1764 | Update Go dependencies | 2026-05-19T10:26:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1764 | app/red-hat-konflux | ok
 ccx-notification-service | 1246 | chore(deps): update actions/checkout action to v7 | 2026-06-20T21:14:08Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1246 | app/red-hat-konflux | ok
