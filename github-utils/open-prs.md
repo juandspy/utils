@@ -3,7 +3,7 @@ repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-data-pipeline | 94 | Update Python dependencies to >=1.43.36,<1.43.37 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
-ccx-insights-content-service | 927 | chore(deps): update go dependencies to v2.4.2 | 2026-06-27T04:44:54Z | https://github.com/RedHatInsights/content-service/pull/927 | app/red-hat-konflux | failed
+insights-results-aggregator | 2556 | chore(deps): update go dependencies to v2 | 2026-06-27T09:48:05Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2556 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1773 | Update Pre-commit hooks | 2026-06-26T17:20:57Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1773 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1771 | Update GitHub Actions | 2026-06-17T09:47:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1771 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1768 | Update Ruby dependencies to "~> 0.5.0" | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
