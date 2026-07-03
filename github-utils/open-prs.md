@@ -1,20 +1,19 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 146 | chore(deps): update pre-commit hooks to v43.246.1 | 2026-07-01T21:39:05Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/146 | app/red-hat-konflux | failed
 ccx-data-pipeline | 110 | Update Pre-commit hooks to v0.15.20 | 2026-06-28T21:08:41Z | https://github.com/RedHatInsights/data-pipeline/pull/110 | app/red-hat-konflux | failed
-ccx-data-pipeline | 94 | Update Python dependencies to >=1.43.36,<1.43.37 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
+ccx-data-pipeline | 94 | Update Python dependencies to >=1.43.37,<1.43.38 | 2026-05-19T22:38:10Z | https://github.com/RedHatInsights/data-pipeline/pull/94 | app/red-hat-konflux | failed
 ccx-data-pipeline | 56 | Test PR auto-merge flag | 2026-04-15T07:13:13Z | https://github.com/RedHatInsights/data-pipeline/pull/56 | app/obsint-processing-app | ok
-ccx-insights-content-service | 941 | chore(deps): update pre-commit hooks to v43.246.1 | 2026-06-30T16:50:28Z | https://github.com/RedHatInsights/content-service/pull/941 | app/red-hat-konflux | failed
-insights-results-aggregator | 2564 | chore(deps): update pre-commit hooks to v43.246.1 | 2026-06-30T21:10:44Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2564 | app/red-hat-konflux | failed
-insights-results-aggregator | 2563 | chore(deps): update go dependencies to v2 | 2026-06-30T16:14:19Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2563 | app/red-hat-konflux | failed
+ccx-insights-content-service | 942 | chore(deps): update go dependencies | 2026-07-02T20:40:27Z | https://github.com/RedHatInsights/content-service/pull/942 | app/red-hat-konflux | failed
+ccx-insights-content-service | 941 | chore(deps): update pre-commit hooks to v43.249.0 | 2026-06-30T16:50:28Z | https://github.com/RedHatInsights/content-service/pull/941 | app/red-hat-konflux | failed
+insights-results-aggregator | 2564 | chore(deps): update pre-commit hooks to v43.249.0 | 2026-06-30T21:10:44Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2564 | app/red-hat-konflux | failed
+insights-results-aggregator | 2563 | chore(deps): update go dependencies | 2026-06-30T16:14:19Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2563 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1775 | Update Go dependencies | 2026-07-02T15:03:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1775 | app/red-hat-konflux | ok
+ccx-smart-proxy | 1774 | update codecov set up to not enforce target | 2026-07-02T10:19:08Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1774 | lenasolarova | failed
 ccx-smart-proxy | 1773 | Update Pre-commit hooks | 2026-06-26T17:20:57Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1773 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1771 | Update GitHub Actions | 2026-06-17T09:47:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1771 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1768 | Update Ruby dependencies to "~> 0.5.0" | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1764 | Update Go dependencies | 2026-05-19T10:26:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1764 | app/red-hat-konflux | ok
-ccx-notification-service | 1246 | chore(deps): update actions/checkout action to v7 | 2026-06-20T21:14:08Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1246 | app/red-hat-konflux | ok
+ccx-notification-service | 1249 | [CCXDEV-16553] fix potentially misleading outdated documentation across docs/ | 2026-07-02T17:37:04Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1249 | Bee-lee | ok
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
-obsint-mocks | 286 | chore(deps): update module github.com/golang-jwt/jwt/v4 to v5 | 2026-06-16T02:33:35Z | https://github.com/RedHatInsights/obsint-mocks/pull/286 | app/red-hat-konflux | ok
-ccx-messaging | 816 | [CCXDEV-16445] Fix botocore conflicts - use 1.43.1 | 2026-07-01T14:25:48Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/816 | matysek | ok
-ccx-messaging | 753 | fix(deps): update python dependencies | 2026-05-18T10:23:20Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/753 | app/red-hat-konflux | failed
+ccx-messaging | 819 | fix(deps): update python dependencies | 2026-07-02T09:12:24Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/819 | app/red-hat-konflux | failed
 
