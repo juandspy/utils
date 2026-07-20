@@ -1,10 +1,10 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 187 | chore(deps): update pre-commit hooks to v43.264.2 | 2026-07-18T17:13:25Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/187 | app/red-hat-konflux | failed
-ccx-upgrades-data-eng | 220 | chore(deps): update pre-commit hooks to v43.264.2 | 2026-07-18T17:20:59Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/220 | app/red-hat-konflux | failed
-ccx-data-pipeline | 117 | Update Python dependencies to >=1.43.49,<1.43.50 | 2026-07-13T21:18:34Z | https://github.com/RedHatInsights/data-pipeline/pull/117 | app/red-hat-konflux | failed
-insights-results-aggregator | 2617 | chore(deps): update pre-commit hooks to v43.264.2 | 2026-07-18T17:16:13Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2617 | app/red-hat-konflux | failed
+ccx-upgrades-inference | 189 | chore(deps): update pre-commit hooks to v43.265.4 | 2026-07-19T21:29:18Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/189 | app/red-hat-konflux | failed
+ccx-upgrades-data-eng | 224 | chore(deps): update pre-commit hooks to v43.265.4 | 2026-07-20T02:58:59Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/224 | app/red-hat-konflux | failed
+ccx-data-pipeline | 119 | Update Pre-commit hooks to v0.15.22 | 2026-07-19T16:57:33Z | https://github.com/RedHatInsights/data-pipeline/pull/119 | app/red-hat-konflux | failed
+ccx-data-pipeline | 117 | Update Python dependencies to >=1.43.50,<1.43.51 | 2026-07-13T21:18:34Z | https://github.com/RedHatInsights/data-pipeline/pull/117 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1792 | Update Go dependencies | 2026-07-17T13:16:44Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1792 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1791 | Update GitHub Actions | 2026-07-17T13:14:01Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1791 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1790 | Update Pre-commit hooks | 2026-07-17T09:19:54Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1790 | app/red-hat-konflux | failed
