@@ -1,18 +1,21 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 213 | chore(deps): update pre-commit hooks to v43.281.1 | 2026-07-29T21:34:37Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/213 | app/red-hat-konflux | failed
+parquet-factory | 268 | chore(deps): update pre-commit hooks to v43.285.3 | 2026-07-31T01:18:43Z | https://github.com/RedHatInsights/parquet-factory/pull/268 | app/red-hat-konflux | failed
+parquet-factory | 267 | chore(deps): update go dependencies | 2026-07-30T21:31:42Z | https://github.com/RedHatInsights/parquet-factory/pull/267 | app/red-hat-konflux | ok
+ccx-data-pipeline | 122 | Update Python dependencies to >=1.43.57,<1.43.58 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
 ccx-data-pipeline | 121 | Bumped ccx-rules-ocp version to 2026.07.29 | 2026-07-29T07:38:53Z | https://github.com/RedHatInsights/data-pipeline/pull/121 | app/obsint-processing-app | failed
+ccx-insights-content-service | 1022 | chore(deps): update pre-commit hooks to v43.285.3 | 2026-07-31T01:18:12Z | https://github.com/RedHatInsights/content-service/pull/1022 | app/red-hat-konflux | failed
 ccx-insights-content-service | 1015 | Bumped ccx-rules-ocp version to 2026.07.29 | 2026-07-29T07:38:56Z | https://github.com/RedHatInsights/content-service/pull/1015 | app/obsint-processing-app | failed
-ccx-smart-proxy | 1792 | Update Go dependencies | 2026-07-17T13:16:44Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1792 | app/red-hat-konflux | failed
+insights-results-aggregator | 2635 | chore(deps): update go dependencies | 2026-07-31T06:17:09Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2635 | app/red-hat-konflux | ok
+insights-results-aggregator | 2634 | chore(deps): update pre-commit hooks to v43.285.3 | 2026-07-31T01:21:32Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2634 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1793 | Update Go dependencies | 2026-07-30T09:21:14Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1793 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1791 | Update GitHub Actions | 2026-07-17T13:14:01Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1791 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1790 | Update Pre-commit hooks | 2026-07-17T09:19:54Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1790 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1774 | update codecov set up to not enforce target | 2026-07-02T10:19:08Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1774 | lenasolarova | failed
-ccx-notification-writer | 915 | chore(deps): update go dependencies to v3.0.5 | 2026-07-29T17:28:20Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/915 | app/red-hat-konflux | failed
+ccx-notification-writer | 917 | chore(deps): update go dependencies | 2026-07-30T21:42:27Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/917 | app/red-hat-konflux | ok
+ccx-notification-service | 1266 | [CCXDEV-16564] Part 1/2 -- add `storage` part for retrieving disabled rules from `cluster_rule_toggle` table | 2026-07-30T20:12:44Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1266 | Bee-lee | ok
 ccx-notification-service | 1256 | add full `/go-implement` dynamic workflow for reference for incremental changes | 2026-07-13T12:17:53Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1256 | Bee-lee | ok
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
-ccx-insights-content-template-renderer | 500 | Update Pre-commit hooks to v43.281.1 | 2026-07-27T21:00:30Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/500 | app/red-hat-konflux | failed
-insights-behavioral-spec | 808 | chore: small changes to successfully pass sha-extractor tests | 2026-07-21T13:17:17Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/808 | RostyslavKachan | failed
-obsint-mocks | 423 | chore(deps): update go dependencies to v5 | 2026-07-28T05:19:55Z | https://github.com/RedHatInsights/obsint-mocks/pull/423 | app/red-hat-konflux | ok
-ccx-messaging | 885 | fix(deps): update python dependencies | 2026-07-29T18:41:56Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/885 | app/red-hat-konflux | ok
+ccx-messaging | 888 | fix(deps): update python dependencies | 2026-07-30T09:24:05Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/888 | app/red-hat-konflux | failed
 
