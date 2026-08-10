@@ -1,9 +1,8 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.65,<1.43.66 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.66,<1.43.67 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
 ccx-data-pipeline | 121 | Bumped ccx-rules-ocp version to 2026.07.29 | 2026-07-29T07:38:53Z | https://github.com/RedHatInsights/data-pipeline/pull/121 | app/obsint-processing-app | failed
-ccx-insights-content-service | 1061 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.13.3 | 2026-08-09T01:30:29Z | https://github.com/RedHatInsights/content-service/pull/1061 | app/red-hat-konflux | ok
 ccx-insights-content-service | 1015 | Bumped ccx-rules-ocp version to 2026.07.29 | 2026-07-29T07:38:56Z | https://github.com/RedHatInsights/content-service/pull/1015 | app/obsint-processing-app | failed
 ccx-smart-proxy | 1802 | Update Go dependencies | 2026-08-05T01:50:14Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1802 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1800 | Update Pre-commit hooks | 2026-08-04T19:08:30Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1800 | app/red-hat-konflux | failed
