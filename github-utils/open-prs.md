@@ -1,12 +1,9 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-data-eng | 296 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.23.0 | 2026-08-14T01:39:52Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/296 | app/red-hat-konflux | failed
-parquet-factory | 317 | fix(deps): update go dependencies | 2026-08-14T01:36:24Z | https://github.com/RedHatInsights/parquet-factory/pull/317 | app/red-hat-konflux | failed
-ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.68,<1.43.69 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
-ccx-data-pipeline | 121 | Bumped ccx-rules-ocp version to 2026.07.29 | 2026-07-29T07:38:53Z | https://github.com/RedHatInsights/data-pipeline/pull/121 | app/obsint-processing-app | failed
-ccx-insights-content-service | 1075 | chore(deps): update go dependencies | 2026-08-14T01:51:36Z | https://github.com/RedHatInsights/content-service/pull/1075 | app/red-hat-konflux | failed
-insights-results-aggregator | 2685 | chore(deps): update go dependencies | 2026-08-14T01:24:06Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2685 | app/red-hat-konflux | failed
+ccx-upgrades-data-eng | 298 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.24.3 | 2026-08-15T01:41:09Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/298 | app/red-hat-konflux | failed
+ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.69,<1.43.70 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+ccx-insights-content-service | 1077 | chore(deps): update go dependencies | 2026-08-15T01:48:46Z | https://github.com/RedHatInsights/content-service/pull/1077 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1809 | Update Go dependencies | 2026-08-14T02:43:21Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1809 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1808 | Update Pre-commit hooks | 2026-08-12T01:37:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1808 | app/red-hat-konflux | failed
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
