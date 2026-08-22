@@ -1,8 +1,10 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-parquet-factory | 328 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.32.5 | 2026-08-21T01:46:13Z | https://github.com/RedHatInsights/parquet-factory/pull/328 | app/red-hat-konflux | failed
-ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.73,<1.43.74 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+parquet-factory | 329 | chore(deps): update module github.com/pierrec/lz4/v4 to v4.1.29 | 2026-08-22T01:27:24Z | https://github.com/RedHatInsights/parquet-factory/pull/329 | app/red-hat-konflux | failed
+ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.74,<1.43.75 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+insights-results-aggregator | 2699 | chore(deps): update go dependencies | 2026-08-22T01:34:43Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2699 | app/red-hat-konflux | failed
+insights-results-aggregator | 2698 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.33.2 | 2026-08-22T01:30:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2698 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1809 | Update Go dependencies | 2026-08-14T02:43:21Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1809 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1808 | Update Pre-commit hooks | 2026-08-12T01:37:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1808 | app/red-hat-konflux | failed
 ccx-notification-service | 1273 | CCXDEV-16664: Migrate OCM Service Log severities to HCC labels | 2026-08-18T09:18:14Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1273 | platex-rehor-bot | failed
