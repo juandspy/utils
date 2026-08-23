@@ -1,16 +1,28 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-parquet-factory | 329 | chore(deps): update module github.com/pierrec/lz4/v4 to v4.1.29 | 2026-08-22T01:27:24Z | https://github.com/RedHatInsights/parquet-factory/pull/329 | app/red-hat-konflux | failed
-ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.74,<1.43.75 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+ccx-upgrades-inference | 271 | chore(deps): update pre-commit hooks | 2026-08-23T01:54:29Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/271 | app/red-hat-konflux | failed
+ccx-upgrades-inference | 270 | fix(deps): update dependency uvicorn to v0.52.4 | 2026-08-23T01:54:22Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/270 | app/red-hat-konflux | failed
+ccx-upgrades-data-eng | 307 | chore(deps): update pre-commit hooks | 2026-08-23T01:34:53Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/307 | app/red-hat-konflux | failed
+parquet-factory | 331 | chore(deps): update pre-commit hooks | 2026-08-23T01:29:36Z | https://github.com/RedHatInsights/parquet-factory/pull/331 | app/red-hat-konflux | failed
+ccx-data-pipeline | 132 | Update pre-commit hook golangci/golangci-lint to v2.13.0 | 2026-08-23T02:01:22Z | https://github.com/RedHatInsights/data-pipeline/pull/132 | app/red-hat-konflux | failed
+ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.75,<1.43.76 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+ccx-insights-content-service | 1090 | chore(deps): update pre-commit hooks | 2026-08-23T01:24:28Z | https://github.com/RedHatInsights/content-service/pull/1090 | app/red-hat-konflux | failed
 insights-results-aggregator | 2699 | chore(deps): update go dependencies | 2026-08-22T01:34:43Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2699 | app/red-hat-konflux | failed
-insights-results-aggregator | 2698 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.33.2 | 2026-08-22T01:30:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2698 | app/red-hat-konflux | failed
+insights-results-aggregator | 2698 | chore(deps): update pre-commit hooks | 2026-08-22T01:30:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2698 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 1021 | chore(deps): update pre-commit hooks | 2026-08-23T01:36:57Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1021 | app/red-hat-konflux | failed
+insights-results-aggregator-exporter | 902 | chore(deps): update pre-commit hooks | 2026-08-23T01:24:44Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/902 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1809 | Update Go dependencies | 2026-08-14T02:43:21Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1809 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1808 | Update Pre-commit hooks | 2026-08-12T01:37:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1808 | app/red-hat-konflux | failed
+ccx-notification-writer | 945 | chore(deps): update pre-commit hook golangci/golangci-lint to v2.13.0 | 2026-08-23T01:47:56Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/945 | app/red-hat-konflux | failed
 ccx-notification-service | 1273 | CCXDEV-16664: Migrate OCM Service Log severities to HCC labels | 2026-08-18T09:18:14Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1273 | platex-rehor-bot | failed
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
+io-gathering-service | 969 | chore(deps): update pre-commit hooks | 2026-08-23T01:20:32Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/969 | app/red-hat-konflux | failed
 io-gathering-service | 922 | [CCXDEV-16644] Remove unused in-process authentication middleware | 2026-08-03T12:24:25Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/922 | juandspy | ok
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+ccx-insights-content-template-renderer | 580 | Update Pre-commit hooks | 2026-08-23T02:16:05Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/580 | app/red-hat-konflux | failed
+insights-behavioral-spec | 816 | Update pre-commit hook golangci/golangci-lint to v2.13.0 | 2026-08-23T01:35:27Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/816 | app/red-hat-konflux | failed
+ccx-messaging | 942 | chore(deps): update pre-commit hooks | 2026-08-23T01:45:58Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/942 | app/red-hat-konflux | failed
 ccx-messaging | 915 | Using new dependencies from insights-core-messaging | 2026-08-06T13:52:02Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/915 | joselsegura | failed
 ccx-messaging | 888 | fix(deps): update python dependencies | 2026-07-30T09:24:05Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/888 | app/red-hat-konflux | failed
 
