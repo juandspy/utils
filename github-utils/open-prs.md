@@ -5,11 +5,10 @@ ccx-upgrades-inference | 271 | chore(deps): update pre-commit hooks | 2026-08-23
 ccx-upgrades-inference | 270 | fix(deps): update dependency uvicorn to v0.52.4 | 2026-08-23T01:54:22Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/270 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 307 | chore(deps): update pre-commit hooks | 2026-08-23T01:34:53Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/307 | app/red-hat-konflux | failed
 parquet-factory | 336 | fix(deps): bump kin-openapi to v0.147.0 | 2026-08-27T07:17:13Z | https://github.com/RedHatInsights/parquet-factory/pull/336 | platex-rehor-bot | ok
-parquet-factory | 335 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.40.0 | 2026-08-26T02:19:38Z | https://github.com/RedHatInsights/parquet-factory/pull/335 | app/red-hat-konflux | failed
+parquet-factory | 335 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.45.4 | 2026-08-26T02:19:38Z | https://github.com/RedHatInsights/parquet-factory/pull/335 | app/red-hat-konflux | failed
 ccx-data-pipeline | 132 | Update Pre-commit hooks | 2026-08-23T02:01:22Z | https://github.com/RedHatInsights/data-pipeline/pull/132 | app/red-hat-konflux | failed
-ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.79,<1.43.80 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.80,<1.43.81 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
 ccx-insights-content-service | 1090 | chore(deps): update pre-commit hooks | 2026-08-23T01:24:28Z | https://github.com/RedHatInsights/content-service/pull/1090 | app/red-hat-konflux | failed
-insights-results-aggregator | 2701 | fix(deps): update go dependencies | 2026-08-28T01:26:12Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2701 | app/red-hat-konflux | failed
 insights-results-aggregator | 2698 | chore(deps): update pre-commit hooks | 2026-08-22T01:30:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2698 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 1021 | chore(deps): update pre-commit hooks | 2026-08-23T01:36:57Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1021 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 905 | fix(deps): bump kin-openapi to v0.147.0 for CVE-2026-73501 | 2026-08-27T06:29:22Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/905 | platex-rehor-bot | ok
