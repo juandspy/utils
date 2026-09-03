@@ -1,7 +1,6 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-upgrades-inference | 272 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:11:50Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/272 | app/obsint-processing-app | failed
 ccx-upgrades-inference | 271 | chore(deps): update pre-commit hooks | 2026-08-23T01:54:29Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/271 | app/red-hat-konflux | failed
 ccx-upgrades-inference | 270 | fix(deps): update dependency uvicorn to v0.52.4 | 2026-08-23T01:54:22Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/270 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 307 | chore(deps): update pre-commit hooks | 2026-08-23T01:34:53Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/307 | app/red-hat-konflux | failed
@@ -26,9 +25,7 @@ io-gathering-service | 979 | chore(sync): synced file(s) with RedHatInsights/pro
 io-gathering-service | 969 | chore(deps): update pre-commit hooks | 2026-08-23T01:20:32Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/969 | app/red-hat-konflux | failed
 io-gathering-service | 922 | [CCXDEV-16644] Remove unused in-process authentication middleware | 2026-08-03T12:24:25Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/922 | juandspy | ok
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
-ccx-insights-content-template-renderer | 580 | Update Pre-commit hooks | 2026-08-23T02:16:05Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/580 | app/red-hat-konflux | failed
 insights-behavioral-spec | 816 | Update Pre-commit hooks | 2026-08-23T01:35:27Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/816 | app/red-hat-konflux | failed
-ccx-messaging | 942 | chore(deps): update pre-commit hooks | 2026-08-23T01:45:58Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/942 | app/red-hat-konflux | failed
 ccx-messaging | 915 | Using new dependencies from insights-core-messaging | 2026-08-06T13:52:02Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/915 | joselsegura | failed
 ccx-messaging | 888 | fix(deps): update python dependencies | 2026-07-30T09:24:05Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/888 | app/red-hat-konflux | failed
 
