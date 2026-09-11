@@ -22,7 +22,6 @@ insights-results-aggregator-exporter | 902 | chore(deps): update pre-commit hook
 ccx-smart-proxy | 1820 | Update Pre-commit hooks | 2026-09-08T05:39:56Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1820 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1819 | Update Go dependencies | 2026-09-08T05:39:45Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1819 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1812 | Update GitHub Actions | 2026-09-05T04:12:19Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1812 | app/red-hat-konflux | ok
-ccx-smart-proxy | 1810 | fix(deps): CCXDEV-16761 bump kin-openapi for CVE-2026-73501 | 2026-08-27T06:40:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1810 | platex-rehor-bot | ok
 ccx-notification-writer | 958 | chore(deps): update go dependencies | 2026-09-06T01:20:49Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/958 | app/red-hat-konflux | failed
 ccx-notification-writer | 957 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-05T04:26:18Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/957 | app/red-hat-konflux | failed
 ccx-notification-writer | 955 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:11:33Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/955 | app/obsint-processing-app | failed
@@ -39,7 +38,7 @@ ccx-insights-content-template-renderer | 606 | Update RedHatInsights/processing-
 insights-behavioral-spec | 823 | Update RedHatInsights/processing-tools action to v0.4.5 | 2026-09-08T05:14:10Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/823 | app/red-hat-konflux | ok
 insights-behavioral-spec | 816 | Update Pre-commit hooks | 2026-08-23T01:35:27Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/816 | app/red-hat-konflux | failed
 obsint-mocks | 523 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-08T05:23:14Z | https://github.com/RedHatInsights/obsint-mocks/pull/523 | app/red-hat-konflux | ok
-ccx-messaging | 956 | [CCXDEV-16673] Use URL instead of S3 path for rules-processing | 2026-09-10T07:11:27Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/956 | joselsegura | failed
+ccx-messaging | 959 | [CCXDEV-16673] Update dependencies | 2026-09-11T08:13:21Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/959 | joselsegura | ok
 ccx-messaging | 954 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-08T04:34:02Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/954 | app/red-hat-konflux | ok
 ccx-messaging | 915 | Using new dependencies from insights-core-messaging | 2026-08-06T13:52:02Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/915 | joselsegura | failed
 ccx-messaging | 888 | fix(deps): update python dependencies | 2026-07-30T09:24:05Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/888 | app/red-hat-konflux | failed
