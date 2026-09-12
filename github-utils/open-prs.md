@@ -5,8 +5,9 @@ ccx-upgrades-inference | 271 | chore(deps): update pre-commit hooks | 2026-08-23
 ccx-upgrades-inference | 270 | fix(deps): update dependency uvicorn to v0.52.4 | 2026-08-23T01:54:22Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/270 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 307 | chore(deps): update pre-commit hooks | 2026-08-23T01:34:53Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/307 | app/red-hat-konflux | failed
 parquet-factory | 344 | chore(deps): update pre-commit hooks | 2026-09-08T01:18:54Z | https://github.com/RedHatInsights/parquet-factory/pull/344 | app/red-hat-konflux | failed
+ccx-data-pipeline | 138 | [CCXDEV-16673] Using latest ccx-messaging | 2026-09-11T15:07:14Z | https://github.com/RedHatInsights/data-pipeline/pull/138 | joselsegura | ok
 ccx-data-pipeline | 132 | Update Pre-commit hooks | 2026-08-23T02:01:22Z | https://github.com/RedHatInsights/data-pipeline/pull/132 | app/red-hat-konflux | failed
-ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.89,<1.43.90 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.90,<1.43.91 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
 ccx-insights-content-service | 1090 | chore(deps): update pre-commit hooks | 2026-08-23T01:24:28Z | https://github.com/RedHatInsights/content-service/pull/1090 | app/red-hat-konflux | failed
 insights-results-aggregator | 2711 | chore(deps): update pre-commit hooks | 2026-09-08T01:15:08Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2711 | app/red-hat-konflux | failed
 insights-results-aggregator | 2710 | fix(deps): update go dependencies | 2026-09-06T01:15:50Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2710 | app/red-hat-konflux | failed
@@ -38,8 +39,5 @@ ccx-insights-content-template-renderer | 606 | Update RedHatInsights/processing-
 insights-behavioral-spec | 823 | Update RedHatInsights/processing-tools action to v0.4.5 | 2026-09-08T05:14:10Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/823 | app/red-hat-konflux | ok
 insights-behavioral-spec | 816 | Update Pre-commit hooks | 2026-08-23T01:35:27Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/816 | app/red-hat-konflux | failed
 obsint-mocks | 523 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-08T05:23:14Z | https://github.com/RedHatInsights/obsint-mocks/pull/523 | app/red-hat-konflux | ok
-ccx-messaging | 959 | [CCXDEV-16673] Update dependencies | 2026-09-11T08:13:21Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/959 | joselsegura | ok
 ccx-messaging | 954 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-08T04:34:02Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/954 | app/red-hat-konflux | ok
-ccx-messaging | 915 | Using new dependencies from insights-core-messaging | 2026-08-06T13:52:02Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/915 | joselsegura | failed
-ccx-messaging | 888 | fix(deps): update python dependencies | 2026-07-30T09:24:05Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/888 | app/red-hat-konflux | failed
 
