@@ -7,7 +7,7 @@ ccx-upgrades-data-eng | 307 | chore(deps): update pre-commit hooks | 2026-08-23T
 parquet-factory | 344 | chore(deps): update pre-commit hooks | 2026-09-08T01:18:54Z | https://github.com/RedHatInsights/parquet-factory/pull/344 | app/red-hat-konflux | failed
 ccx-data-pipeline | 138 | [CCXDEV-16673] Using latest ccx-messaging | 2026-09-11T15:07:14Z | https://github.com/RedHatInsights/data-pipeline/pull/138 | joselsegura | ok
 ccx-data-pipeline | 132 | Update Pre-commit hooks | 2026-08-23T02:01:22Z | https://github.com/RedHatInsights/data-pipeline/pull/132 | app/red-hat-konflux | failed
-ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.90,<1.43.91 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.91,<1.43.92 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
 ccx-insights-content-service | 1090 | chore(deps): update pre-commit hooks | 2026-08-23T01:24:28Z | https://github.com/RedHatInsights/content-service/pull/1090 | app/red-hat-konflux | failed
 insights-results-aggregator | 2711 | chore(deps): update pre-commit hooks | 2026-09-08T01:15:08Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2711 | app/red-hat-konflux | failed
 insights-results-aggregator | 2710 | fix(deps): update go dependencies | 2026-09-06T01:15:50Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2710 | app/red-hat-konflux | failed
