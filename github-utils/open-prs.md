@@ -5,10 +5,10 @@ ccx-upgrades-inference | 271 | chore(deps): update pre-commit hooks | 2026-08-23
 ccx-upgrades-inference | 270 | fix(deps): update dependency uvicorn to v0.52.4 | 2026-08-23T01:54:22Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/270 | app/red-hat-konflux | failed
 ccx-upgrades-data-eng | 307 | chore(deps): update pre-commit hooks | 2026-08-23T01:34:53Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/307 | app/red-hat-konflux | failed
 parquet-factory | 344 | chore(deps): update pre-commit hooks | 2026-09-08T01:18:54Z | https://github.com/RedHatInsights/parquet-factory/pull/344 | app/red-hat-konflux | failed
-ccx-data-pipeline | 138 | [CCXDEV-16673] Using latest ccx-messaging | 2026-09-11T15:07:14Z | https://github.com/RedHatInsights/data-pipeline/pull/138 | joselsegura | ok
 ccx-data-pipeline | 132 | Update Pre-commit hooks | 2026-08-23T02:01:22Z | https://github.com/RedHatInsights/data-pipeline/pull/132 | app/red-hat-konflux | failed
-ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.91,<1.43.92 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
+ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.92,<1.43.93 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
 ccx-insights-content-service | 1090 | chore(deps): update pre-commit hooks | 2026-08-23T01:24:28Z | https://github.com/RedHatInsights/content-service/pull/1090 | app/red-hat-konflux | failed
+insights-results-aggregator | 2712 | CCXDEV-16817: Bump mongo-driver to v1.17.10 (CVE-2026-88031) | 2026-09-14T08:42:24Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2712 | platex-rehor-bot | ok
 insights-results-aggregator | 2711 | chore(deps): update pre-commit hooks | 2026-09-08T01:15:08Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2711 | app/red-hat-konflux | failed
 insights-results-aggregator | 2710 | fix(deps): update go dependencies | 2026-09-06T01:15:50Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2710 | app/red-hat-konflux | failed
 insights-results-aggregator | 2707 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2707 | app/obsint-processing-app | failed
