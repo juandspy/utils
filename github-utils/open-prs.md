@@ -6,7 +6,6 @@ ccx-upgrades-inference | 270 | fix(deps): update dependency uvicorn to v0.52.4 |
 ccx-upgrades-data-eng | 307 | chore(deps): update pre-commit hooks | 2026-08-23T01:34:53Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/307 | app/red-hat-konflux | failed
 parquet-factory | 344 | chore(deps): update pre-commit hooks | 2026-09-08T01:18:54Z | https://github.com/RedHatInsights/parquet-factory/pull/344 | app/red-hat-konflux | failed
 ccx-data-pipeline | 132 | Update Pre-commit hooks | 2026-08-23T02:01:22Z | https://github.com/RedHatInsights/data-pipeline/pull/132 | app/red-hat-konflux | failed
-ccx-data-pipeline | 122 | Update dependency boto3 to >=1.43.92,<1.43.93 | 2026-07-30T21:30:23Z | https://github.com/RedHatInsights/data-pipeline/pull/122 | app/red-hat-konflux | failed
 ccx-insights-content-service | 1090 | chore(deps): update pre-commit hooks | 2026-08-23T01:24:28Z | https://github.com/RedHatInsights/content-service/pull/1090 | app/red-hat-konflux | failed
 insights-results-aggregator | 2712 | CCXDEV-16817: Bump mongo-driver to v1.17.10 (CVE-2026-88031) | 2026-09-14T08:42:24Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2712 | platex-rehor-bot | ok
 insights-results-aggregator | 2711 | chore(deps): update pre-commit hooks | 2026-09-08T01:15:08Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2711 | app/red-hat-konflux | failed
@@ -35,6 +34,7 @@ io-gathering-service | 979 | chore(sync): synced file(s) with RedHatInsights/pro
 io-gathering-service | 969 | chore(deps): update pre-commit hooks | 2026-08-23T01:20:32Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/969 | app/red-hat-konflux | failed
 io-gathering-service | 922 | [CCXDEV-16644] Remove unused in-process authentication middleware | 2026-08-03T12:24:25Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/922 | juandspy | ok
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+ccx-insights-content-template-renderer | 620 | Update dependency boto3 to v1.43.93 | 2026-09-15T01:32:08Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/620 | app/red-hat-konflux | failed
 ccx-insights-content-template-renderer | 606 | Update RedHatInsights/processing-tools action to v0.4.5 | 2026-09-08T04:57:17Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/606 | app/red-hat-konflux | ok
 insights-behavioral-spec | 823 | Update RedHatInsights/processing-tools action to v0.4.5 | 2026-09-08T05:14:10Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/823 | app/red-hat-konflux | ok
 insights-behavioral-spec | 816 | Update Pre-commit hooks | 2026-08-23T01:35:27Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/816 | app/red-hat-konflux | failed
