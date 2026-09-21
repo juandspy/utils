@@ -2,8 +2,8 @@
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-upgrades-inference | 280 | chore(deps): update pre-commit hooks | 2026-09-19T03:38:27Z | https://github.com/RedHatInsights/ccx-upgrades-inference/pull/280 | app/red-hat-konflux | failed
+ccx-upgrades-data-eng | 315 | chore(deps): update pre-commit hooks | 2026-09-21T01:30:22Z | https://github.com/RedHatInsights/ccx-upgrades-data-eng/pull/315 | app/red-hat-konflux | failed
 ccx-data-pipeline | 146 | Update Pre-commit hooks | 2026-09-20T01:22:27Z | https://github.com/RedHatInsights/data-pipeline/pull/146 | app/red-hat-konflux | failed
-insights-results-aggregator | 2722 | chore(deps): update pre-commit hooks | 2026-09-20T00:41:02Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2722 | app/red-hat-konflux | failed
 insights-results-aggregator | 2721 | fix(deps): update go dependencies | 2026-09-19T02:11:00Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2721 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 1044 | fix(deps): update go dependencies | 2026-09-19T02:20:36Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1044 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 926 | chore(deps): update go dependencies | 2026-09-19T02:33:03Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/926 | app/red-hat-konflux | failed
