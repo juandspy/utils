@@ -8,6 +8,7 @@ ccx-smart-proxy | 1858 | Update Ruby dependencies | 2026-10-28T01:21:33Z | https
 ccx-notification-writer | 999 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-11-02T09:55:50Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/999 | app/obsint-processing-app | failed
 ccx-notification-writer | 998 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.17.3 | 2026-10-30T03:16:47Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/998 | app/red-hat-konflux | failed
 ccx-notification-writer | 997 | chore(deps): update go dependencies | 2026-10-30T03:16:39Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/997 | app/red-hat-konflux | failed
+ccx-notification-service | 1288 | dummy PR to trigger CI in order to test new BDD tests | 2026-11-04T15:01:59Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1288 | Bee-lee | failed
 ccx-notification-service | 1287 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-11-02T09:55:42Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1287 | app/obsint-processing-app | failed
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
@@ -15,5 +16,5 @@ ccx-insights-content-template-renderer | 710 | [CCXDEV-16882] Add /v2/rendered_r
 ccx-insights-content-template-renderer | 709 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-11-02T09:56:41Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/709 | app/obsint-processing-app | failed
 ccx-insights-content-template-renderer | 708 | Update Python dependencies | 2026-10-30T03:02:26Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/708 | app/red-hat-konflux | failed
 ccx-insights-content-template-renderer | 707 | Update Pre-commit hooks | 2026-10-28T01:32:33Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/707 | app/red-hat-konflux | failed
-insights-behavioral-spec | 849 | Harden the notification service disabled rules BDD scenarios | 2026-11-03T17:23:14Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/849 | Bee-lee | ok
+obsint-mocks | 632 | [CCXDEV-17022] Add a note for service log | 2026-11-05T10:54:17Z | https://github.com/RedHatInsights/obsint-mocks/pull/632 | ikerreyes | ok
 
