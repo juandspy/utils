@@ -1,6 +1,7 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2797 | Bump Go version in test workflow | 2026-11-16T09:29:14Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2797 | joselsegura | failed
 insights-results-aggregator | 2796 | chore(deps): update go dependencies | 2026-11-14T01:37:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2796 | app/red-hat-konflux | failed
 insights-results-aggregator | 2795 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-11-13T01:57:24Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2795 | app/obsint-processing-app | failed
 insights-results-aggregator | 2794 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.227.4 | 2026-11-12T11:57:39Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2794 | app/red-hat-konflux | failed
