@@ -1,6 +1,7 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2798 | [CCXDEV-17083] Enable Redis TLS when AUTH password is set | 2026-11-17T09:25:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2798 | juandspy | failed
 insights-results-aggregator | 2797 | Bump Go version in test workflow | 2026-11-16T09:29:14Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2797 | joselsegura | failed
 insights-results-aggregator | 2796 | chore(deps): update go dependencies | 2026-11-14T01:37:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2796 | app/red-hat-konflux | failed
 insights-results-aggregator | 2795 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-11-13T01:57:24Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2795 | app/obsint-processing-app | failed
@@ -8,6 +9,7 @@ insights-results-aggregator | 2794 | chore(deps): update pre-commit hook renovat
 insights-results-aggregator | 2793 | chore(deps): update module golang.org/x/crypto to v0.59.0 [security] | 2026-11-12T11:57:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2793 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 1030 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.227.4 | 2026-11-14T03:30:21Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/1030 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 1029 | chore(deps): update go dependencies | 2026-11-14T03:30:13Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/1029 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1881 | [CCXDEV-17083] Enable Redis TLS when AUTH password is set | 2026-11-17T09:28:10Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1881 | juandspy | failed
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
 ccx-insights-content-template-renderer | 727 | Update Python dependencies | 2026-11-14T02:25:44Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/727 | app/red-hat-konflux | failed
