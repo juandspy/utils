@@ -1,6 +1,10 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-data-pipeline | 159 | Bumped ccx-rules-ocp version to 2026.11.17 | 2026-11-18T16:51:41Z | https://github.com/RedHatInsights/data-pipeline/pull/159 | app/obsint-processing-app | failed
+ccx-data-pipeline | 158 | Bumped ccx-rules-ocp version to 2026.11.17 | 2026-11-18T15:51:34Z | https://github.com/RedHatInsights/data-pipeline/pull/158 | app/obsint-processing-app | failed
+ccx-insights-content-service | 1111 | Bumped ccx-rules-ocp version to 2026.11.17 | 2026-11-18T16:51:35Z | https://github.com/RedHatInsights/content-service/pull/1111 | app/obsint-processing-app | failed
+ccx-insights-content-service | 1110 | Bumped ccx-rules-ocp version to 2026.11.17 | 2026-11-18T15:51:31Z | https://github.com/RedHatInsights/content-service/pull/1110 | app/obsint-processing-app | failed
 insights-results-aggregator | 2798 | [CCXDEV-17083] Enable Redis TLS when AUTH password is set | 2026-11-17T09:25:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2798 | juandspy | failed
 insights-results-aggregator | 2797 | Bump Go version in test workflow | 2026-11-16T09:29:14Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2797 | joselsegura | failed
 insights-results-aggregator | 2796 | chore(deps): update go dependencies | 2026-11-14T01:37:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2796 | app/red-hat-konflux | failed
