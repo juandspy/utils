@@ -9,13 +9,20 @@ insights-results-aggregator | 2798 | [CCXDEV-17083] Enable Redis TLS when AUTH p
 insights-results-aggregator | 2797 | Bump Go version in test workflow | 2026-11-16T09:29:14Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2797 | joselsegura | failed
 insights-results-aggregator | 2796 | chore(deps): update go dependencies | 2026-11-14T01:37:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2796 | app/red-hat-konflux | failed
 insights-results-aggregator | 2795 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-11-13T01:57:24Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2795 | app/obsint-processing-app | failed
-insights-results-aggregator | 2794 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.227.4 | 2026-11-12T11:57:39Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2794 | app/red-hat-konflux | failed
+insights-results-aggregator | 2794 | chore(deps): update pre-commit hooks | 2026-11-12T11:57:39Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2794 | app/red-hat-konflux | failed
 insights-results-aggregator | 2793 | chore(deps): update module golang.org/x/crypto to v0.59.0 [security] | 2026-11-12T11:57:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2793 | app/red-hat-konflux | failed
-insights-results-aggregator-exporter | 1030 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.227.4 | 2026-11-14T03:30:21Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/1030 | app/red-hat-konflux | failed
-insights-results-aggregator-exporter | 1029 | chore(deps): update go dependencies | 2026-11-14T03:30:13Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/1029 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 1158 | chore(deps): update pre-commit hooks | 2026-11-21T03:22:23Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1158 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 1157 | chore(deps): update go dependencies | 2026-11-21T03:22:15Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1157 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1883 | Update Pre-commit hooks | 2026-11-21T03:03:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1883 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1882 | Update Go dependencies | 2026-11-21T03:02:34Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1882 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1881 | [CCXDEV-17083] Enable Redis TLS when AUTH password is set | 2026-11-17T09:28:10Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1881 | juandspy | failed
+ccx-notification-writer | 1013 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.17.5 | 2026-11-21T02:22:36Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/1013 | app/red-hat-konflux | failed
+ccx-notification-writer | 1012 | chore(deps): update go dependencies | 2026-11-21T02:22:27Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/1012 | app/red-hat-konflux | failed
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
+io-gathering-service | 1099 | chore(deps): update pre-commit hooks | 2026-11-21T04:42:55Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/1099 | app/red-hat-konflux | failed
+io-gathering-service | 1098 | chore(deps): update go dependencies | 2026-11-21T04:42:46Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/1098 | app/red-hat-konflux | failed
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed
+ccx-insights-content-template-renderer | 728 | Update Pre-commit hooks | 2026-11-21T03:42:33Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/728 | app/red-hat-konflux | failed
 ccx-insights-content-template-renderer | 727 | Update Python dependencies | 2026-11-14T02:25:44Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/727 | app/red-hat-konflux | failed
-obsint-mocks | 652 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.227.4 | 2026-11-13T07:44:23Z | https://github.com/RedHatInsights/obsint-mocks/pull/652 | app/red-hat-konflux | failed
+ccx-messaging | 1051 | chore(deps): update pre-commit hooks | 2026-11-21T02:04:22Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/1051 | app/red-hat-konflux | failed
 
