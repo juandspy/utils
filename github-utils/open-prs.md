@@ -11,7 +11,6 @@ insights-results-aggregator | 2794 | chore(deps): update pre-commit hooks | 2026
 insights-results-aggregator | 2793 | chore(deps): update module golang.org/x/crypto to v0.59.0 [security] | 2026-11-12T11:57:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2793 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 1158 | chore(deps): update pre-commit hooks | 2026-11-21T03:22:23Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1158 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 1157 | chore(deps): update go dependencies | 2026-11-21T03:22:15Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1157 | app/red-hat-konflux | failed
-insights-results-aggregator-exporter | 1035 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.256.0 | 2026-11-23T04:42:46Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/1035 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1884 | Update Ruby dependencies | 2026-11-22T00:49:50Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1884 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1883 | Update Pre-commit hooks | 2026-11-21T03:03:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1883 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1882 | Update Go dependencies | 2026-11-21T03:02:34Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1882 | app/red-hat-konflux | failed
